@@ -60,6 +60,7 @@ export function InstalledScreen() {
     <box flexDirection="column" flexGrow={1} padding={1} backgroundColor={theme.bg.base}>
       <box flexGrow={1} flexDirection="row">
         <scrollbox
+          viewportCulling={true}
           borderStyle="single"
           borderColor={tabAccent}
           title={tab === "installed" ? "Installed packages" : "Orphaned packages"}
@@ -80,6 +81,7 @@ export function InstalledScreen() {
           ))}
         </scrollbox>
         <scrollbox
+          viewportCulling={true}
           width={36}
           marginLeft={1}
           borderStyle="single"
