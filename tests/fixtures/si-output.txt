@@ -1,0 +1,22 @@
+Repository      : extra
+Name            : neovim
+Version         : 0.12.3-1
+Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
+Architecture    : x86_64
+URL             : https://neovim.io
+Licenses        : Apache-2.0  LicenseRef-vim
+Groups          : None
+Provides        : nvim  vim-plugin-runtime
+Depends On      : glibc  libgcc  libluv  libtree-sitter.so=0.26-64  libunibilium.so=4-64  libutf8proc  libuv  libvterm>=0.3.3  lua51-lpeg  luajit  msgpack-c  tree-sitter  tree-sitter-c  tree-sitter-lua  tree-sitter-markdown  tree-sitter-query  tree-sitter-vim  tree-sitter-vimdoc  unibilium
+Optional Deps   : python-pynvim: for Python plugin support (see :help python)
+                  xclip: for clipboard support on X11 (or xsel) (see :help clipboard)
+                  xsel: for clipboard support on X11 (or xclip) (see :help clipboard)
+                  wl-clipboard: for clipboard support on wayland (see :help clipboard)
+Conflicts With  : None
+Replaces        : None
+Download Size   : 7.25 MiB
+Installed Size  : 30.52 MiB
+Packager        : Caleb Maclennan <alerque@archlinux.org>
+Build Date      : Thu 11 Jun 2026 12:41:05 PM +0330
+Validated By    : SHA-256 Sum  Signature
+

@@ -1,0 +1,1686 @@
+extra/browserpass-firefox 3.12.0-1 [1.11 MiB 1.11 MiB] (firefox-addons)
+    Firefox extension for Browserpass, browser extension for zx2c4's pass (password manager)
+extra/curl-impersonate 1.5.6-1 [1.75 MiB 4.19 MiB]
+    A build of curl that impersonates four major browsers: Chrome, Edge, Safari & Firefox
+extra/dump_syms 2.3.7-1 [2.90 MiB 7.83 MiB]
+    Symbol dumper for Firefox
+extra/firefox 152.0.4-1 [81.82 MiB 286.21 MiB] [Installed: 151.0.3-1]
+    Fast, Private & Safe Web Browser
+extra/firefox-adblock-plus 4.41.0-1 [3.65 MiB 3.73 MiB] (firefox-addons)
+    Extension for firefox which blocks ads and banners
+extra/firefox-dark-reader 4.9.124-1 [772.16 KiB 791.29 KiB] (firefox-addons)
+    Inverts brightness of web pages and aims to reduce eyestrain while browsing the web
+extra/firefox-decentraleyes 3.0.1-1 [6.38 MiB 6.80 MiB] (firefox-addons)
+    Local emulation of Content Delivery Networks
+extra/firefox-developer-edition 153.0b7-1 [84.36 MiB 292.25 MiB]
+    Fast, Private & Safe Web Browser (Developer Edition)
+extra/firefox-developer-edition-i18n-ach 153.0b7-1 [290.59 KiB 355.18 KiB]
+    Acholi language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-af 153.0b7-1 [276.96 KiB 341.55 KiB]
+    Afrikaans language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-an 153.0b7-1 [319.17 KiB 382.91 KiB]
+    Aragonese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ar 153.0b7-1 [456.33 KiB 519.68 KiB]
+    Arabic language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ast 153.0b7-1 [313.55 KiB 377.99 KiB]
+    Asturian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-az 153.0b7-1 [312.19 KiB 376.07 KiB]
+    Azerbaijani language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-be 153.0b7-1 [507.19 KiB 570.71 KiB]
+    Belarusian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-bg 153.0b7-1 [436.30 KiB 498.96 KiB]
+    Bulgarian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-bn 153.0b7-1 [389.13 KiB 452.54 KiB]
+    Bengali language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-br 153.0b7-1 [360.45 KiB 422.86 KiB]
+    Breton language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-bs 153.0b7-1 [396.82 KiB 459.16 KiB]
+    Bosnian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ca 153.0b7-1 [397.04 KiB 459.09 KiB]
+    Catalan language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ca-valencia 153.0b7-1 [332.73 KiB 402.91 KiB]
+    Catalan (Valencian) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-cak 153.0b7-1 [358.69 KiB 422.17 KiB]
+    Maya Kaqchikel language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-cs 153.0b7-1 [459.94 KiB 522.68 KiB]
+    Czech language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-cy 153.0b7-1 [422.31 KiB 484.59 KiB]
+    Welsh language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-da 153.0b7-1 [403.27 KiB 465.68 KiB]
+    Danish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-de 153.0b7-1 [433.40 KiB 495.85 KiB]
+    German language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-dsb 153.0b7-1 [446.56 KiB 509.89 KiB]
+    Lower Sorbian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-el 153.0b7-1 [525.26 KiB 587.13 KiB]
+    Greek language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-en-ca 153.0b7-1 [383.34 KiB 448.28 KiB]
+    English (Canadian) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-en-gb 153.0b7-1 [383.63 KiB 448.59 KiB]
+    English (British) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-en-us 153.0b7-1 [573.44 KiB 637.62 KiB]
+    English (US) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-eo 153.0b7-1 [411.75 KiB 473.69 KiB]
+    Esperanto language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-ar 153.0b7-1 [422.00 KiB 486.27 KiB]
+    Spanish (Argentina) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-cl 153.0b7-1 [423.75 KiB 487.94 KiB]
+    Spanish (Chile) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-es 153.0b7-1 [424.01 KiB 488.34 KiB]
+    Spanish (Spain) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-mx 153.0b7-1 [427.22 KiB 491.47 KiB]
+    Spanish (Mexico) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-et 153.0b7-1 [329.81 KiB 393.27 KiB]
+    Estonian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-eu 153.0b7-1 [411.79 KiB 474.03 KiB]
+    Basque language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fa 153.0b7-1 [396.08 KiB 458.81 KiB]
+    Persian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ff 153.0b7-1 [302.46 KiB 366.25 KiB]
+    Fulah language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fi 153.0b7-1 [411.88 KiB 474.21 KiB]
+    Finnish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fr 153.0b7-1 [438.91 KiB 501.42 KiB]
+    French language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fur 153.0b7-1 [424.74 KiB 490.49 KiB]
+    Friulian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fy-nl 153.0b7-1 [411.41 KiB 483.20 KiB]
+    Frisian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ga-ie 153.0b7-1 [308.02 KiB 374.56 KiB]
+    Irish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gd 153.0b7-1 [370.96 KiB 434.17 KiB]
+    Gaelic (Scotland) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gl 153.0b7-1 [393.14 KiB 455.50 KiB]
+    Galician language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gn 153.0b7-1 [429.58 KiB 492.13 KiB]
+    Guarani language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gu-in 153.0b7-1 [345.53 KiB 411.82 KiB]
+    Gujarati (India) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-he 153.0b7-1 [436.37 KiB 498.35 KiB]
+    Hebrew language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hi-in 153.0b7-1 [360.07 KiB 426.18 KiB]
+    Hindi (India) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hr 153.0b7-1 [414.72 KiB 476.72 KiB]
+    Croatian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hsb 153.0b7-1 [443.88 KiB 506.57 KiB]
+    Upper Sorbian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hu 153.0b7-1 [448.96 KiB 510.74 KiB]
+    Hungarian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hy-am 153.0b7-1 [444.89 KiB 509.74 KiB]
+    Armenian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ia 153.0b7-1 [407.89 KiB 470.09 KiB]
+    Interlingua language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-id 153.0b7-1 [378.47 KiB 440.62 KiB]
+    Indonesian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-is 153.0b7-1 [396.45 KiB 459.01 KiB]
+    Icelandic language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-it 153.0b7-1 [419.42 KiB 482.12 KiB]
+    Italian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ja 153.0b7-1 [463.06 KiB 525.06 KiB]
+    Japanese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ka 153.0b7-1 [481.62 KiB 543.72 KiB]
+    Georgian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-kab 153.0b7-1 [380.83 KiB 444.09 KiB]
+    Kabyle language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-kk 153.0b7-1 [499.13 KiB 562.03 KiB]
+    Kazakh language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-km 153.0b7-1 [366.63 KiB 430.58 KiB]
+    Khmer language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-kn 153.0b7-1 [331.00 KiB 395.18 KiB]
+    Kannada language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ko 153.0b7-1 [447.10 KiB 509.57 KiB]
+    Korean language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-lij 153.0b7-1 [310.45 KiB 374.66 KiB]
+    Ligurian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-lt 153.0b7-1 [351.33 KiB 414.24 KiB]
+    Lithuanian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-lv 153.0b7-1 [367.09 KiB 429.86 KiB]
+    Latvian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-mk 153.0b7-1 [358.38 KiB 422.36 KiB]
+    Macedonian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-mr 153.0b7-1 [345.44 KiB 409.53 KiB]
+    Marathi language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ms 153.0b7-1 [289.00 KiB 353.19 KiB]
+    Malay language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-my 153.0b7-1 [342.23 KiB 406.24 KiB]
+    Burmese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-nb-no 153.0b7-1 [404.01 KiB 469.10 KiB]
+    Norwegian (Bokmål) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ne-np 153.0b7-1 [341.12 KiB 407.46 KiB]
+    Nepali language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-nl 153.0b7-1 [413.94 KiB 476.86 KiB]
+    Dutch language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-nn-no 153.0b7-1 [406.33 KiB 472.53 KiB]
+    Norwegian (Nynorsk) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-oc 153.0b7-1 [374.48 KiB 437.38 KiB]
+    Occitan language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pa-in 153.0b7-1 [493.78 KiB 557.95 KiB]
+    Punjabi (India) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pl 153.0b7-1 [444.16 KiB 506.36 KiB]
+    Polish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pt-br 153.0b7-1 [417.13 KiB 481.50 KiB]
+    Portuguese (Brazilian) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pt-pt 153.0b7-1 [412.63 KiB 484.51 KiB]
+    Portuguese (Portugal) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-rm 153.0b7-1 [400.30 KiB 462.60 KiB]
+    Romansh language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ro 153.0b7-1 [433.54 KiB 495.39 KiB]
+    Romanian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ru 153.0b7-1 [513.03 KiB 575.38 KiB]
+    Russian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sat 153.0b7-1 [426.98 KiB 490.28 KiB]
+    Santali language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sc 153.0b7-1 [394.97 KiB 457.34 KiB]
+    Sardinian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sco 153.0b7-1 [313.72 KiB 377.93 KiB]
+    Scots language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-si 153.0b7-1 [390.77 KiB 454.53 KiB]
+    Sinhala language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sk 153.0b7-1 [450.42 KiB 513.59 KiB]
+    Slovak language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-skr 153.0b7-1 [437.77 KiB 500.98 KiB]
+    Saraiki language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sl 153.0b7-1 [420.51 KiB 482.70 KiB]
+    Slovenian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-son 153.0b7-1 [276.08 KiB 341.39 KiB]
+    Songhai language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sq 153.0b7-1 [429.11 KiB 491.78 KiB]
+    Albanian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sr 153.0b7-1 [482.75 KiB 546.27 KiB]
+    Serbian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sv-se 153.0b7-1 [411.66 KiB 476.32 KiB]
+    Swedish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-szl 153.0b7-1 [331.99 KiB 396.73 KiB]
+    Silesian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ta 153.0b7-1 [334.29 KiB 398.22 KiB]
+    Tamil language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-te 153.0b7-1 [372.90 KiB 436.50 KiB]
+    Telugu language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-tg 153.0b7-1 [498.91 KiB 561.85 KiB]
+    Tajik language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-th 153.0b7-1 [490.02 KiB 551.74 KiB]
+    Thai language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-tl 153.0b7-1 [330.88 KiB 394.43 KiB]
+    Tagalog language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-tr 153.0b7-1 [428.62 KiB 490.71 KiB]
+    Turkish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-trs 153.0b7-1 [320.89 KiB 385.38 KiB]
+    Chicahuaxtla Triqui language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-uk 153.0b7-1 [490.97 KiB 553.33 KiB]
+    Ukrainian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ur 153.0b7-1 [355.54 KiB 419.06 KiB]
+    Urdu language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-uz 153.0b7-1 [302.96 KiB 367.32 KiB]
+    Uzbek language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-vi 153.0b7-1 [452.87 KiB 514.93 KiB]
+    Vietnamese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-xh 153.0b7-1 [282.13 KiB 346.69 KiB]
+    Xhosa language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-zh-cn 153.0b7-1 [436.40 KiB 501.59 KiB]
+    Chinese (Simplified) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-zh-tw 153.0b7-1 [441.12 KiB 506.32 KiB]
+    Chinese (Traditional) language pack for Firefox Developer Edition
+extra/firefox-extension-mailvelope 6.1.0-2 [3.10 MiB 3.19 MiB] (firefox-addons)
+    Browser extension for OpenPGP encryption with Webmail
+extra/firefox-extension-passff 1.17.0-2 [69.47 KiB 71.78 KiB] (firefox-addons)
+    zx2c4 pass manager addon for firefox
+extra/firefox-i18n-ach 152.0.4-1 [224.13 KiB 288.77 KiB]
+    Acholi language pack for Firefox
+extra/firefox-i18n-af 152.0.4-1 [198.71 KiB 263.05 KiB]
+    Afrikaans language pack for Firefox
+extra/firefox-i18n-an 152.0.4-1 [261.23 KiB 324.83 KiB]
+    Aragonese language pack for Firefox
+extra/firefox-i18n-ar 152.0.4-1 [433.46 KiB 496.60 KiB]
+    Arabic language pack for Firefox
+extra/firefox-i18n-ast 152.0.4-1 [241.31 KiB 306.21 KiB]
+    Asturian language pack for Firefox
+extra/firefox-i18n-az 152.0.4-1 [247.92 KiB 311.79 KiB]
+    Azerbaijani language pack for Firefox
+extra/firefox-i18n-be 152.0.4-1 [501.81 KiB 563.81 KiB]
+    Belarusian language pack for Firefox
+extra/firefox-i18n-bg 152.0.4-1 [401.14 KiB 463.62 KiB]
+    Bulgarian language pack for Firefox
+extra/firefox-i18n-bn 152.0.4-1 [339.93 KiB 403.28 KiB]
+    Bengali language pack for Firefox
+extra/firefox-i18n-br 152.0.4-1 [323.22 KiB 385.76 KiB]
+    Breton language pack for Firefox
+extra/firefox-i18n-bs 152.0.4-1 [375.76 KiB 438.85 KiB]
+    Bosnian language pack for Firefox
+extra/firefox-i18n-ca 152.0.4-1 [366.26 KiB 428.99 KiB]
+    Catalan language pack for Firefox
+extra/firefox-i18n-ca-valencia 152.0.4-1 [279.74 KiB 350.35 KiB]
+    Catalan (Valencian) language pack for Firefox
+extra/firefox-i18n-cak 152.0.4-1 [316.18 KiB 381.05 KiB]
+    Maya Kaqchikel language pack for Firefox
+extra/firefox-i18n-cs 152.0.4-1 [453.22 KiB 515.62 KiB]
+    Czech language pack for Firefox
+extra/firefox-i18n-cy 152.0.4-1 [414.72 KiB 477.38 KiB]
+    Welsh language pack for Firefox
+extra/firefox-i18n-da 152.0.4-1 [395.37 KiB 457.39 KiB]
+    Danish language pack for Firefox
+extra/firefox-i18n-de 152.0.4-1 [426.37 KiB 488.61 KiB]
+    German language pack for Firefox
+extra/firefox-i18n-dsb 152.0.4-1 [438.85 KiB 502.44 KiB]
+    Lower Sorbian language pack for Firefox
+extra/firefox-i18n-el 152.0.4-1 [517.40 KiB 579.14 KiB]
+    Greek language pack for Firefox
+extra/firefox-i18n-en-ca 152.0.4-1 [376.34 KiB 441.52 KiB]
+    English (Canadian) language pack for Firefox
+extra/firefox-i18n-en-gb 152.0.4-1 [377.20 KiB 441.80 KiB]
+    English (British) language pack for Firefox
+extra/firefox-i18n-en-us 152.0.4-1 [566.50 KiB 631.55 KiB]
+    English (US) language pack for Firefox
+extra/firefox-i18n-eo 152.0.4-1 [404.28 KiB 466.87 KiB]
+    Esperanto language pack for Firefox
+extra/firefox-i18n-es-ar 152.0.4-1 [414.15 KiB 479.09 KiB]
+    Spanish (Argentina) language pack for Firefox
+extra/firefox-i18n-es-cl 152.0.4-1 [416.45 KiB 480.79 KiB]
+    Spanish (Chile) language pack for Firefox
+extra/firefox-i18n-es-es 152.0.4-1 [415.96 KiB 481.55 KiB]
+    Spanish (Spain) language pack for Firefox
+extra/firefox-i18n-es-mx 152.0.4-1 [419.01 KiB 484.36 KiB]
+    Spanish (Mexico) language pack for Firefox
+extra/firefox-i18n-et 152.0.4-1 [288.98 KiB 351.98 KiB]
+    Estonian language pack for Firefox
+extra/firefox-i18n-eu 152.0.4-1 [404.00 KiB 466.45 KiB]
+    Basque language pack for Firefox
+extra/firefox-i18n-fa 152.0.4-1 [348.02 KiB 410.89 KiB]
+    Persian language pack for Firefox
+extra/firefox-i18n-ff 152.0.4-1 [240.24 KiB 303.68 KiB]
+    Fulah language pack for Firefox
+extra/firefox-i18n-fi 152.0.4-1 [402.64 KiB 465.08 KiB]
+    Finnish language pack for Firefox
+extra/firefox-i18n-fr 152.0.4-1 [432.24 KiB 494.14 KiB]
+    French language pack for Firefox
+extra/firefox-i18n-fur 152.0.4-1 [418.41 KiB 481.28 KiB]
+    Friulian language pack for Firefox
+extra/firefox-i18n-fy-nl 152.0.4-1 [410.85 KiB 476.06 KiB]
+    Frisian language pack for Firefox
+extra/firefox-i18n-ga-ie 152.0.4-1 [241.49 KiB 309.12 KiB]
+    Irish language pack for Firefox
+extra/firefox-i18n-gd 152.0.4-1 [337.41 KiB 400.04 KiB]
+    Gaelic (Scotland) language pack for Firefox
+extra/firefox-i18n-gl 152.0.4-1 [373.00 KiB 435.79 KiB]
+    Galician language pack for Firefox
+extra/firefox-i18n-gn 152.0.4-1 [420.85 KiB 483.95 KiB]
+    Guarani language pack for Firefox
+extra/firefox-i18n-gu-in 152.0.4-1 [284.57 KiB 350.45 KiB]
+    Gujarati (India) language pack for Firefox
+extra/firefox-i18n-he 152.0.4-1 [418.57 KiB 480.67 KiB]
+    Hebrew language pack for Firefox
+extra/firefox-i18n-hi-in 152.0.4-1 [303.33 KiB 368.88 KiB]
+    Hindi (India) language pack for Firefox
+extra/firefox-i18n-hr 152.0.4-1 [399.23 KiB 461.33 KiB]
+    Croatian language pack for Firefox
+extra/firefox-i18n-hsb 152.0.4-1 [436.46 KiB 499.17 KiB]
+    Upper Sorbian language pack for Firefox
+extra/firefox-i18n-hu 152.0.4-1 [440.20 KiB 503.27 KiB]
+    Hungarian language pack for Firefox
+extra/firefox-i18n-hy-am 152.0.4-1 [416.45 KiB 481.24 KiB]
+    Armenian language pack for Firefox
+extra/firefox-i18n-ia 152.0.4-1 [400.81 KiB 463.07 KiB]
+    Interlingua language pack for Firefox
+extra/firefox-i18n-id 152.0.4-1 [360.68 KiB 422.98 KiB]
+    Indonesian language pack for Firefox
+extra/firefox-i18n-is 152.0.4-1 [368.01 KiB 430.63 KiB]
+    Icelandic language pack for Firefox
+extra/firefox-i18n-it 152.0.4-1 [411.77 KiB 474.98 KiB]
+    Italian language pack for Firefox
+extra/firefox-i18n-ja 152.0.4-1 [454.84 KiB 517.70 KiB]
+    Japanese language pack for Firefox
+extra/firefox-i18n-ka 152.0.4-1 [474.28 KiB 536.58 KiB]
+    Georgian language pack for Firefox
+extra/firefox-i18n-kab 152.0.4-1 [354.03 KiB 417.21 KiB]
+    Kabyle language pack for Firefox
+extra/firefox-i18n-kk 152.0.4-1 [493.07 KiB 555.07 KiB]
+    Kazakh language pack for Firefox
+extra/firefox-i18n-km 152.0.4-1 [302.38 KiB 367.10 KiB]
+    Khmer language pack for Firefox
+extra/firefox-i18n-kn 152.0.4-1 [261.27 KiB 325.50 KiB]
+    Kannada language pack for Firefox
+extra/firefox-i18n-ko 152.0.4-1 [439.94 KiB 502.32 KiB]
+    Korean language pack for Firefox
+extra/firefox-i18n-lij 152.0.4-1 [251.39 KiB 315.69 KiB]
+    Ligurian language pack for Firefox
+extra/firefox-i18n-lt 152.0.4-1 [307.50 KiB 371.02 KiB]
+    Lithuanian language pack for Firefox
+extra/firefox-i18n-lv 152.0.4-1 [325.71 KiB 389.05 KiB]
+    Latvian language pack for Firefox
+extra/firefox-i18n-mk 152.0.4-1 [297.96 KiB 361.60 KiB]
+    Macedonian language pack for Firefox
+extra/firefox-i18n-mr 152.0.4-1 [284.57 KiB 348.35 KiB]
+    Marathi language pack for Firefox
+extra/firefox-i18n-ms 152.0.4-1 [225.59 KiB 289.89 KiB]
+    Malay language pack for Firefox
+extra/firefox-i18n-my 152.0.4-1 [271.76 KiB 335.61 KiB]
+    Burmese language pack for Firefox
+extra/firefox-i18n-nb-no 152.0.4-1 [397.07 KiB 462.16 KiB]
+    Norwegian (Bokmål) language pack for Firefox
+extra/firefox-i18n-ne-np 152.0.4-1 [274.71 KiB 340.72 KiB]
+    Nepali language pack for Firefox
+extra/firefox-i18n-nl 152.0.4-1 [407.09 KiB 469.76 KiB]
+    Dutch language pack for Firefox
+extra/firefox-i18n-nn-no 152.0.4-1 [401.20 KiB 465.46 KiB]
+    Norwegian (Nynorsk) language pack for Firefox
+extra/firefox-i18n-oc 152.0.4-1 [341.58 KiB 404.61 KiB]
+    Occitan language pack for Firefox
+extra/firefox-i18n-pa-in 152.0.4-1 [470.83 KiB 535.07 KiB]
+    Punjabi (India) language pack for Firefox
+extra/firefox-i18n-pl 152.0.4-1 [437.45 KiB 500.10 KiB]
+    Polish language pack for Firefox
+extra/firefox-i18n-pt-br 152.0.4-1 [409.98 KiB 474.42 KiB]
+    Portuguese (Brazilian) language pack for Firefox
+extra/firefox-i18n-pt-pt 152.0.4-1 [413.54 KiB 478.12 KiB]
+    Portuguese (Portugal) language pack for Firefox
+extra/firefox-i18n-rm 152.0.4-1 [384.69 KiB 447.22 KiB]
+    Romansh language pack for Firefox
+extra/firefox-i18n-ro 152.0.4-1 [426.02 KiB 488.03 KiB]
+    Romanian language pack for Firefox
+extra/firefox-i18n-ru 152.0.4-1 [504.89 KiB 567.36 KiB]
+    Russian language pack for Firefox
+extra/firefox-i18n-sat 152.0.4-1 [394.45 KiB 457.64 KiB]
+    Santali language pack for Firefox
+extra/firefox-i18n-sc 152.0.4-1 [357.42 KiB 419.87 KiB]
+    Sardinian language pack for Firefox
+extra/firefox-i18n-sco 152.0.4-1 [250.97 KiB 315.92 KiB]
+    Scots language pack for Firefox
+extra/firefox-i18n-si 152.0.4-1 [336.38 KiB 399.77 KiB]
+    Sinhala language pack for Firefox
+extra/firefox-i18n-sk 152.0.4-1 [444.34 KiB 506.13 KiB]
+    Slovak language pack for Firefox
+extra/firefox-i18n-skr 152.0.4-1 [409.00 KiB 472.89 KiB]
+    Saraiki language pack for Firefox
+extra/firefox-i18n-sl 152.0.4-1 [409.49 KiB 471.82 KiB]
+    Slovenian language pack for Firefox
+extra/firefox-i18n-son 152.0.4-1 [204.25 KiB 269.37 KiB]
+    Songhai language pack for Firefox
+extra/firefox-i18n-sq 152.0.4-1 [418.48 KiB 480.45 KiB]
+    Albanian language pack for Firefox
+extra/firefox-i18n-sr 152.0.4-1 [476.38 KiB 539.46 KiB]
+    Serbian language pack for Firefox
+extra/firefox-i18n-sv-se 152.0.4-1 [404.38 KiB 469.27 KiB]
+    Swedish language pack for Firefox
+extra/firefox-i18n-szl 152.0.4-1 [269.33 KiB 334.03 KiB]
+    Silesian language pack for Firefox
+extra/firefox-i18n-ta 152.0.4-1 [266.97 KiB 330.73 KiB]
+    Tamil language pack for Firefox
+extra/firefox-i18n-te 152.0.4-1 [315.87 KiB 379.31 KiB]
+    Telugu language pack for Firefox
+extra/firefox-i18n-tg 152.0.4-1 [489.61 KiB 551.51 KiB]
+    Tajik language pack for Firefox
+extra/firefox-i18n-th 152.0.4-1 [482.41 KiB 544.99 KiB]
+    Thai language pack for Firefox
+extra/firefox-i18n-tl 152.0.4-1 [284.96 KiB 347.97 KiB]
+    Tagalog language pack for Firefox
+extra/firefox-i18n-tr 152.0.4-1 [421.05 KiB 483.83 KiB]
+    Turkish language pack for Firefox
+extra/firefox-i18n-trs 152.0.4-1 [253.10 KiB 317.72 KiB]
+    Chicahuaxtla Triqui language pack for Firefox
+extra/firefox-i18n-uk 152.0.4-1 [478.53 KiB 540.44 KiB]
+    Ukrainian language pack for Firefox
+extra/firefox-i18n-ur 152.0.4-1 [298.95 KiB 362.37 KiB]
+    Urdu language pack for Firefox
+extra/firefox-i18n-uz 152.0.4-1 [234.43 KiB 298.44 KiB]
+    Uzbek language pack for Firefox
+extra/firefox-i18n-vi 152.0.4-1 [441.90 KiB 504.42 KiB]
+    Vietnamese language pack for Firefox
+extra/firefox-i18n-xh 152.0.4-1 [204.34 KiB 268.87 KiB]
+    Xhosa language pack for Firefox
+extra/firefox-i18n-zh-cn 152.0.4-1 [428.88 KiB 494.78 KiB]
+    Chinese (Simplified) language pack for Firefox
+extra/firefox-i18n-zh-tw 152.0.4-1 [433.60 KiB 498.83 KiB]
+    Chinese (Traditional) language pack for Firefox
+extra/firefox-noscript 13.6.26-1 [760.95 KiB 787.62 KiB] (firefox-addons)
+    Extension for firefox which disables javascript
+extra/firefox-spell-ru 0.4.5.2resigned1-1 [520.10 KiB 517.14 KiB]
+    Russian spellchecker dictionary for Firefox
+extra/firefox-tree-style-tab 4.3.3-1 [1.08 MiB 1.13 MiB] (firefox-addons)
+    Firefox extension to show tabs like a tree
+extra/firefox-tridactyl 1.24.5-1 [3.08 MiB 3.18 MiB] (firefox-addons)
+    Replace Firefox's control mechanism with one modelled on Vim
+extra/firefox-ublock-origin 1.70.0-1 [4.07 MiB 4.20 MiB] (firefox-addons)
+    Efficient blocker add-on for various browsers. Fast, potent, and lean
+extra/firefoxpwa 2.18.4-1 [4.78 MiB 24.52 MiB]
+    A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox (native component)
+extra/otf-fira-mono 2:3.206-5 [184.40 KiB 377.51 KiB]
+    Mozilla's monospace typeface designed for Firefox OS
+extra/otf-fira-sans 1:4.301-3 [11.82 MiB 54.84 MiB]
+    Mozilla's sans-serif typeface designed for Firefox OS
+extra/passff-host 1:1.2.5-3 [7.22 KiB 10.05 KiB]
+    PassFF native messaging host application for Firefox, Chromium, Chrome, Vivaldi
+extra/python-playwright 1.61.0-1 [2.27 MiB 20.36 MiB]
+    A Python library to automate Chromium, Firefox and WebKit browsers with a single API
+extra/ttf-fira-mono 2:3.206-5 [167.77 KiB 546.10 KiB]
+    Mozilla's monospace typeface designed for Firefox OS
+extra/ttf-fira-sans 1:4.301-3 [8.01 MiB 43.42 MiB]
+    Mozilla's sans-serif typeface designed for Firefox OS
+chaotic-aur/arkenfox-user.js-git 144.0.r1.g8fe9905-1 [36.60 KiB 94.30 KiB]
+    Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+chaotic-aur/ff2mpv-native-messaging-host-git r93.b21401d-1.1 [5.64 KiB 2.30 KiB]
+    Native Messaging Host for ff2mpv firefox addon.
+chaotic-aur/firefox-esr 140.12.0-1 [95.40 MiB 259.43 MiB]
+    Standalone web browser from mozilla.org, Extended Support Release
+chaotic-aur/firefox-esr-i18n-ach 140.12.0-1 [229.60 KiB 287.47 KiB]
+    Acholi language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-af 140.12.0-1 [202.69 KiB 260.39 KiB]
+    Afrikaans language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-an 140.12.0-1 [267.76 KiB 324.51 KiB]
+    Aragonese language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ar 140.12.0-1 [379.27 KiB 434.86 KiB]
+    Arabic language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ast 140.12.0-1 [247.00 KiB 304.90 KiB]
+    Asturian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-az 140.12.0-1 [254.02 KiB 310.93 KiB]
+    Azerbaijani language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-be 140.12.0-1 [454.81 KiB 508.99 KiB]
+    Belarusian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-bg 140.12.0-1 [390.78 KiB 446.83 KiB]
+    Bulgarian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-bn 140.12.0-1 [347.72 KiB 403.68 KiB]
+    Bengali language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-br 140.12.0-1 [330.55 KiB 386.04 KiB]
+    Breton language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-bs 140.12.0-1 [381.46 KiB 436.69 KiB]
+    Bosnian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ca 140.12.0-1 [339.93 KiB 395.33 KiB]
+    Catalan language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ca-valencia 140.12.0-1 [286.40 KiB 349.55 KiB]
+    Catalan (Valencian) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-cak 140.12.0-1 [325.18 KiB 381.67 KiB]
+    Maya Kaqchikel language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-cs 140.12.0-1 [409.91 KiB 464.77 KiB]
+    Czech language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-cy 140.12.0-1 [375.51 KiB 431.60 KiB]
+    Welsh language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-da 140.12.0-1 [364.87 KiB 421.02 KiB]
+    Danish language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-de 140.12.0-1 [386.92 KiB 442.10 KiB]
+    German language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-dsb 140.12.0-1 [398.90 KiB 455.14 KiB]
+    Lower Sorbian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-el 140.12.0-1 [469.69 KiB 524.24 KiB]
+    Greek language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-en-ca 140.12.0-1 [343.44 KiB 401.42 KiB]
+    English (Canadian) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-en-gb 140.12.0-1 [343.47 KiB 401.76 KiB]
+    English (British) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-en-us 140.12.0-1 [519.02 KiB 575.83 KiB]
+    English (US) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-eo 140.12.0-1 [367.73 KiB 423.31 KiB]
+    Esperanto language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-es-ar 140.12.0-1 [376.73 KiB 435.07 KiB]
+    Spanish (Argentina) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-es-cl 140.12.0-1 [377.44 KiB 435.85 KiB]
+    Spanish (Chile) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-es-es 140.12.0-1 [378.79 KiB 436.53 KiB]
+    Spanish (Spain) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-es-mx 140.12.0-1 [378.23 KiB 435.79 KiB]
+    Spanish (Mexico) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-et 140.12.0-1 [294.58 KiB 350.91 KiB]
+    Estonian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-eu 140.12.0-1 [352.03 KiB 407.51 KiB]
+    Basque language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-fa 140.12.0-1 [355.97 KiB 411.75 KiB]
+    Persian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ff 140.12.0-1 [245.98 KiB 302.91 KiB]
+    Fulah language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-fi 140.12.0-1 [364.88 KiB 420.09 KiB]
+    Finnish language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-fr 140.12.0-1 [392.62 KiB 447.71 KiB]
+    French language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-fy-nl 140.12.0-1 [374.03 KiB 431.80 KiB]
+    Frisian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ga-ie 140.12.0-1 [248.61 KiB 307.88 KiB]
+    Irish language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-gd 140.12.0-1 [333.66 KiB 390.06 KiB]
+    Gaelic (Scotland) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-gl 140.12.0-1 [377.12 KiB 432.53 KiB]
+    Galician language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-gn 140.12.0-1 [385.17 KiB 440.51 KiB]
+    Guarani language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-gu-in 140.12.0-1 [291.30 KiB 350.57 KiB]
+    Gujarati (India) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-he 140.12.0-1 [379.36 KiB 434.55 KiB]
+    Hebrew language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-hi-in 140.12.0-1 [310.13 KiB 368.62 KiB]
+    Hindi (India) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-hr 140.12.0-1 [371.92 KiB 427.42 KiB]
+    Croatian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-hsb 140.12.0-1 [395.63 KiB 451.85 KiB]
+    Upper Sorbian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-hu 140.12.0-1 [399.97 KiB 455.24 KiB]
+    Hungarian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-hy-am 140.12.0-1 [393.13 KiB 450.79 KiB]
+    Armenian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ia 140.12.0-1 [363.94 KiB 420.04 KiB]
+    Interlingua language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-id 140.12.0-1 [357.52 KiB 412.85 KiB]
+    Indonesian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-is 140.12.0-1 [367.04 KiB 422.54 KiB]
+    Icelandic language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-it 140.12.0-1 [375.12 KiB 430.57 KiB]
+    Italian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ja 140.12.0-1 [414.47 KiB 470.04 KiB]
+    Japanese language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ka 140.12.0-1 [428.33 KiB 483.28 KiB]
+    Georgian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-kab 140.12.0-1 [356.56 KiB 412.95 KiB]
+    Kabyle language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-kk 140.12.0-1 [440.86 KiB 494.82 KiB]
+    Kazakh language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-km 140.12.0-1 [283.55 KiB 340.61 KiB]
+    Khmer language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-kn 140.12.0-1 [266.78 KiB 324.01 KiB]
+    Kannada language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ko 140.12.0-1 [400.94 KiB 456.59 KiB]
+    Korean language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-lij 140.12.0-1 [254.11 KiB 311.80 KiB]
+    Ligurian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-lt 140.12.0-1 [315.13 KiB 371.05 KiB]
+    Lithuanian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-lv 140.12.0-1 [323.80 KiB 379.96 KiB]
+    Latvian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-mk 140.12.0-1 [252.28 KiB 309.41 KiB]
+    Macedonian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-mr 140.12.0-1 [291.09 KiB 347.90 KiB]
+    Marathi language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ms 140.12.0-1 [231.21 KiB 288.46 KiB]
+    Malay language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-my 140.12.0-1 [278.36 KiB 334.99 KiB]
+    Burmese language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-nb-no 140.12.0-1 [361.64 KiB 419.28 KiB]
+    Norwegian (Bokmål) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ne-np 140.12.0-1 [281.82 KiB 340.83 KiB]
+    Nepali language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-nl 140.12.0-1 [367.27 KiB 425.96 KiB]
+    Dutch language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-nn-no 140.12.0-1 [364.44 KiB 422.09 KiB]
+    Norwegian (Nynorsk) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-oc 140.12.0-1 [345.68 KiB 401.31 KiB]
+    Occitan language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-pa-in 140.12.0-1 [425.29 KiB 482.82 KiB]
+    Punjabi (India) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-pl 140.12.0-1 [394.48 KiB 450.12 KiB]
+    Polish language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-pt-br 140.12.0-1 [372.78 KiB 430.43 KiB]
+    Portuguese (Brazilian) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-pt-pt 140.12.0-1 [377.87 KiB 435.96 KiB]
+    Portuguese (Portugal) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-rm 140.12.0-1 [372.33 KiB 427.75 KiB]
+    Romansh language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ro 140.12.0-1 [386.48 KiB 442.21 KiB]
+    Romanian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ru 140.12.0-1 [458.37 KiB 512.88 KiB]
+    Russian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-si 140.12.0-1 [346.12 KiB 401.95 KiB]
+    Sinhala language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-sk 140.12.0-1 [401.45 KiB 457.26 KiB]
+    Slovak language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-sl 140.12.0-1 [374.80 KiB 430.86 KiB]
+    Slovenian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-son 140.12.0-1 [208.15 KiB 266.72 KiB]
+    Songhai language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-sq 140.12.0-1 [389.20 KiB 445.33 KiB]
+    Albanian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-sr 140.12.0-1 [387.39 KiB 442.75 KiB]
+    Serbian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-sv-se 140.12.0-1 [368.14 KiB 425.93 KiB]
+    Swedish language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ta 140.12.0-1 [273.17 KiB 330.22 KiB]
+    Tamil language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-te 140.12.0-1 [316.85 KiB 373.24 KiB]
+    Telugu language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-th 140.12.0-1 [438.90 KiB 493.64 KiB]
+    Thai language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-tl 140.12.0-1 [292.20 KiB 348.30 KiB]
+    Tagalog language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-tr 140.12.0-1 [383.29 KiB 438.78 KiB]
+    Turkish language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-trs 140.12.0-1 [259.35 KiB 316.91 KiB]
+    Chicahuaxtla Triqui language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-uk 140.12.0-1 [450.64 KiB 504.62 KiB]
+    Ukrainian language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-ur 140.12.0-1 [305.05 KiB 361.51 KiB]
+    Urdu language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-uz 140.12.0-1 [238.09 KiB 296.37 KiB]
+    Uzbek language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-vi 140.12.0-1 [402.92 KiB 458.16 KiB]
+    Vietnamese language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-xh 140.12.0-1 [208.56 KiB 266.40 KiB]
+    Xhosa language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-zh-cn 140.12.0-1 [391.58 KiB 449.90 KiB]
+    Chinese (Simplified) language pack for Firefox ESR
+chaotic-aur/firefox-esr-i18n-zh-tw 140.12.0-1 [394.94 KiB 452.87 KiB]
+    Chinese (Traditional) language pack for Firefox ESR
+chaotic-aur/firefox-extension-localcdn 2.6.85-1 [23.66 MiB 24.78 MiB] (firefox-addons)
+    LocalCDN addon for Firefox
+chaotic-aur/firefox-extension-plasma-integration-bin 2.1-2 [242.39 KiB 252.22 KiB]
+    Multitask efficiently by controlling browser functions from the Plasma desktop.
+chaotic-aur/firefox-nightly 149.0a1+20260113.09+hcaa037c30-1 [692.54 MiB 2.62 GiB]
+    Fast, Private & Safe Web Browser
+chaotic-aur/firefox-tridactyl-native 1.24.2-2 [137.02 KiB 416.88 KiB]
+    Tridactyl native messaging host application for Firefox (native: 0.5.0)
+chaotic-aur/firefox-userchromejs 150.0a1-1 [24.11 KiB 60.65 KiB]
+    Patching Firefox to enable JS injection (userchrome-js)
+chaotic-aur/floorp 12.15.2-2 [112.04 MiB 299.28 MiB]
+    Firefox-based web browser focused on performance and customizability
+chaotic-aur/ice-ssb 6.0.8-1.5 [46.17 KiB 5.13 MiB]
+    A simple Site Specific Browser for Firefox, Chromium and Google Chrome from "Peppermint OS" Project
+chaotic-aur/icecat 140.12.0-2 [90.20 MiB 250.16 MiB]
+    GNU version of the Firefox ESR browser
+chaotic-aur/krathalans-apparmor-profiles-git r712.6ec4c4d-1.1 [15.03 KiB 42.70 KiB]
+    Krathalan's apparmor profiles for desktop and server software (Firefox, nginx, postfix, and more)
+chaotic-aur/mozillavpn 2.38.0-1 [6.40 MiB 15.32 MiB]
+    Fast, secure, and easy to use VPN from the makers of Firefox
+chaotic-aur/mozillavpn-git 2.38.0.r56.g01f40fe-1 [6.27 MiB 15.02 MiB]
+    Fast, secure, and easy to use VPN from the makers of Firefox
+chaotic-aur/palemoon-gtk3-bin 1:34.3.1-1 [47.03 MiB 108.86 MiB]
+    Open source web browser based on Firefox focusing on efficiency
+chaotic-aur/phoenix-arch 202606101-1 [268.42 KiB 1.15 MiB]
+    Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
+chaotic-aur/playwright 1.61.0-1 [3.19 MiB 16.76 MiB]
+    Node.js library to automate Chromium, Firefox and WebKit with a single API
+chaotic-aur/tor-browser-bin 15.0.17-1 [131.41 MiB 131.40 MiB]
+    Tor Browser Bundle: anonymous browsing using Firefox and Tor
+chaotic-aur/zen-browser-bin 1.21.4b-1 [119.92 MiB 362.03 MiB]
+    Performance oriented Firefox-based web browser
+aur/tor-browser-bin 15.0.17-1 [+1309 ~7.53]
+    Tor Browser Bundle: anonymous browsing using Firefox and Tor
+aur/librewolf-bin 1:152.0.4_1-1 [+639 ~17.44]
+    Community-maintained fork of Firefox, focused on privacy, security and freedom.
+aur/firefox-nightly 154.0a1+20260629.1+h2cfe577bd498-1 [+615 ~0.14]
+    Fast, Private & Safe Web Browser (Nightly version)
+aur/firefox-beta-bin 153.0b9-1 [+399 ~0.92]
+    Standalone web browser from mozilla.org - Beta
+aur/zen-browser-bin 1.21.5b-1 [+321 ~20.35]
+    Performance oriented Firefox-based web browser
+aur/icecat 140.12.0-2 [+253 ~0.15]
+    GNU version of the Firefox ESR browser
+aur/librewolf 1:152.0.4_1-1 [+223 ~6.14]
+    Community-maintained fork of Firefox, focused on privacy, security and freedom.
+aur/palemoon-bin 1:34.1.0-1 [+197 ~1.84] [Out-of-date: 2026-06-19]
+    Open source web browser based on Firefox focusing on efficiency.
+aur/firefox-esr-bin 140.12.0-2 [+165 ~0.06]
+    Standalone web browser from mozilla.org - Extended Support Release
+aur/palemoon 1:34.3.1-1 [+145 ~0.76]
+    Open source web browser based on Firefox focusing on efficiency.
+aur/lastpass 4.151.5-1 [+96 ~0.24]
+    The Universal LastPass installer for Firefox, Chrome, and Opera
+aur/floorp-bin 12.15.3-1 [+66 ~0.68]
+    Firefox-based web browser focused on performance and customizability
+aur/bin32-firefox-bin 128.0.3-1 [+62 ~0.00] [Out-of-date: 2026-01-24]
+    Standalone web browser from mozilla.org - 32bit version for 64bit systems
+aur/browser-vacuum 4-21 [+58 ~0.00]
+    Defragment and clean database files from firefox and chromium based browsers.
+aur/firefox-esr 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ach 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-af 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-an 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ar 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ast 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-az 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-be 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-bg 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-bn 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-br 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-bs 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ca 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ca-valencia 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-cak 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-cs 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-cy 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-da 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-de 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-dsb 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-el 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-en-ca 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-en-gb 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-en-us 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-eo 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-es-ar 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-es-cl 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-es-es 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-es-mx 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-et 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-eu 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-fa 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ff 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-fi 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-fr 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-fy-nl 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ga-ie 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-gd 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-gl 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-gn 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-gu-in 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-he 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-hi-in 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-hr 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-hsb 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-hu 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-hy-am 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ia 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-id 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-is 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-it 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ja 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ka 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-kab 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-kk 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-km 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-kn 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ko 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-lij 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-lt 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-lv 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-mk 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-mr 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ms 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-my 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-nb-no 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ne-np 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-nl 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-nn-no 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-oc 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-pa-in 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-pl 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-pt-br 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-pt-pt 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-rm 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ro 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ru 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-si 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-sk 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-sl 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-son 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-sq 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-sr 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-sv-se 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ta 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-te 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-th 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-tl 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-tr 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-trs 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-uk 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-ur 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-uz 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-vi 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-xh 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-zh-cn 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/firefox-esr-i18n-zh-tw 140.12.0-1 [+51 ~0.97]
+    Standalone web browser from mozilla.org, Extended Support Release
+aur/mozillavpn 2.38.0-1 [+48 ~0.94]
+    Fast, secure, and easy to use VPN from the makers of Firefox
+aur/zen-browser 1.21.5b-1 [+45 ~1.90]
+    Firefox-based web browser built from upstream release source snapshot
+aur/mozplugger 2.1.6-1 [+37 ~0.00]
+    A Mozilla & Firefox multimedia plugin.
+aur/firefox-beta-bin-all-localizations 153.0b9-1 [+34 ~0.05]
+    Perl script for installing latest FF beta in the language of your choice
+aur/firefox-sync 20220831-1 [+34 ~0.00]
+    Speed up Firefox using tmpfs.
+aur/floorp 12.15.3-1 [+26 ~0.03]
+    Firefox-based web browser focused on performance and customizability
+aur/uget-integrator 1.0.0-2 [+25 ~0.00]
+    Integrate uGet Download Manager with Google Chrome, Chromium, Vivaldi, Opera and Firefox
+aur/ice-ssb 6.0.8-1 [+24 ~0.00]
+    A simple Site Specific Browser for Firefox, Chromium and Google Chrome from "Peppermint OS" Project
+aur/firefox-tridactyl-native 1.24.2-2 [+22 ~0.01] [Out-of-date: 2026-04-04]
+    Tridactyl native messaging host application for Firefox (native: 0.5.0)
+aur/uget-integrator-firefox 1.0.0-4 [+21 ~0.00] [Out-of-date: 2024-08-30]
+    Configuration to connect Firefox with uget-integrator
+aur/firefox-extension-arch-search 2.0.1-4 [+20 ~0.04]
+    A set of Web Extensions that adds ArchLinux (bug tracker, forum, packages, wiki, AUR) as a search engine to the Firefox browser.
+aur/firefox-nightly-bin 154.0a1.20260707.211043-1 [+17 ~0.43]
+    Fast, Private & Safe Web Browser from Mozilla — Nightly Build (en-US)
+aur/ff2mpv-native-messaging-host-git r51.2fca452-1 [+16 ~0.00]
+    Native Messaging Host for ff2mpv firefox addon.
+aur/firefox-extension-greasemonkey 4.13-1 [+16 ~0.00]
+    Customize the way a web page displays or behaves, by using small bits of JavaScript.
+aur/firefox-vaapi 152.0.5-1 [+14 ~0.00]
+    Fast, Private & Safe Web Browser (with VA-API patches for Nvidia hardware acceleration)
+aur/arkenfox-user.js 144.0-1 [+13 ~0.35]
+    Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+aur/firefox-extension-keepassxc-browser 1.10.3-1 [+12 ~0.00]
+    Official browser plugin for the KeePassXC password manager.
+aur/zen-twilight-bin 1.22t.2026.07.07-1 [+12 ~0.35]
+    Unstable Nightly release of the Performance oriented Firefox-based web browser
+aur/firefox-nightly-de-bin 154.0a1.20260618-1 [+11 ~0.00]
+    Standalone Web Browser from Mozilla — Nightly build (de-DE)
+aur/firefox-nightly-i18n-all 132.0a1-1 [+11 ~0.00]
+    Language packs for Firefox Nightly
+aur/firefox-gnome-theme 149.1-1 [+10 ~0.00]
+    A GNOME theme for Firefox
+aur/firefox-syncstorage-git 0.13.0.r10.gab5df9ba-1 [+10 ~0.00]
+    Sync storage with build-in token server for running a self-hosted firefox sync server.
+aur/fx_cast 0.3.1-1 [+10 ~0.00]
+    Chromecast API implementation for Firefox
+aur/eid-mw 5.1.28-1 [+9 ~1.02]
+    The Belgian e-ID (electronic identity card) viewer and Firefox extension
+aur/firefox-developer-edition-vencord 1.14.15-1 [+9 ~0.00]
+    The cutest Discord client mod
+aur/firefox-vencord 1.14.15-1 [+9 ~0.00]
+    The cutest Discord client mod
+aur/firefox-extension-plasma-integration-bin 2.1-2 [+8 ~0.75]
+    Multitask efficiently by controlling browser functions from the Plasma desktop.
+aur/firefox-gnome-theme-git 112.r0.g9b88fd9-1 [+7 ~0.00]
+    A GNOME theme for Firefox
+aur/firefox-profile-switcher-connector-bin 0.1.1-1 [+7 ~0.00]
+    Native connector software for the 'Profile Switcher for Firefox' extension.
+aur/firefox-syncstorage 0.22.3-1 [+7 ~0.00]
+    Sync storage server with built-in token server for running a self-hosted firefox sync server
+aur/konform-browser 1:140.12.0.103-1 [+7 ~0.86]
+    Firefox ESR fork with increased security, privacy, and customizability
+aur/mercury-browser-avx2-bin 129.0.2-1 [+7 ~0.00]
+    Compiler optimized, private Firefox fork - WARNING: Unmaintained and vulnerable to CVE-2024-9680. Use at your own risk!
+aur/firefox-clearurls 1.27.3-4 [+6 ~0.00]
+    Remove tracking elements from URL's.
+aur/firefox-extension-bitwarden-bin 2026.3.0-1 [+6 ~0.00]
+    A secure and free password manager for all of your devices (binary release)
+aur/firefox-extension-canvasblocker 1.12-1 [+6 ~0.43]
+    A Firefox extension to protect from being fingerprinted
+aur/firefox-extension-foxyproxy 9.2-1 [+6 ~0.00]
+    FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities.
+aur/konform-browser-bin 1:140.12.0_103-1 [+6 ~0.83]
+    Community-maintained fork of Firefox, focused on privacy, security and freedom.
+aur/phoenix-arch 202606101-1 [+6 ~0.62]
+    Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
+aur/web-eid-firefox 2.9.0.928-1 [+6 ~1.15]
+    Web eID Firefox extension (signed)
+aur/arkenfox-user.js-git 128.0.r0.gf906f7f-1 [+5 ~0.00]
+    Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+aur/dot-git 0.1-0 [+5 ~0.00]
+    Dot Browser is a privacy-conscious web browser based on Firefox. (Built from source)
+aur/firefox-bin 152.0.4-1 [+5 ~0.76]
+    Standalone web browser from mozilla.org - Static binaries from upstream
+aur/firefox-extension-textern-native-git 0.7.r6.g5e10500-1 [+5 ~0.00]
+    Native component of Textern Firefox extension
+aur/firefox-tridactyl-native-bin 1.24.2-1 [+5 ~0.00] [Out-of-date: 2026-04-04]
+    Tridactyl native messaging host application for Firefox (native: 0.5.0)
+aur/palemoon-gtk3-bin 1:34.3.1-1 [+5 ~0.00]
+    Open source web browser based on Firefox focusing on efficiency
+aur/playwright 1.61.0-1 [+5 ~1.11]
+    Node.js library to automate Chromium, Firefox and WebKit with a single API
+aur/dejsonlz4-git 9.c4305b8-1 [+4 ~0.00]
+    Decompress Mozilla Firefox bookmarks backup files
+aur/ff2mpv-native-messaging-host-librewolf-git r46.736fb91-1 [+4 ~0.00]
+    Native Messaging Host for ff2mpv firefox addon. Ported to LibreWolf.
+aur/firefox-esr-globalmenu 140.0-1 [+4 ~0.00]
+    Fast, Private & Safe Web Browser, Extended Support Release. (with appmenu patch)
+aur/firefox-extension-unity-launcher-api-e10s 1.1.5-1 [+4 ~0.00] [Out-of-date: 2024-03-25] [Orphaned]
+    Unity Launcher API add-on, compatible with e10s.
+aur/firefox-gesturefy 3.0.1-1 [+4 ~0.00]
+    firefix addon for customizable mouse gesture, which supports over 40 different actions
+aur/firefox-opensuse-bin 136.0.1-1.1 [+4 ~0.00] [Out-of-date: 2026-03-24]
+    Standalone web browser from mozilla.org with openSUSE patches
+aur/firefox-vim-vixen 1.2.3-1 [+4 ~0.00]
+    An add-on which allows you to navigate Firefox with vim-like bindings
+aur/fx_cast-bin 0.3.0-3 [+4 ~0.00] [Out-of-date: 2025-04-02]
+    Implementation of the Google Cast Chrome Sender SDK within Firefox
+aur/geckodriver-git 147.0.3.r9851.gcced10961b53-1 [+4 ~0.00]
+    WebDriver for Firefox
+aur/idlehack-git 0.r19-1 [+4 ~0.16]
+    Monitor dbus and inhibit swayidle when Firefox or Chromium request it
+aur/midori-bin 11.8.1-1 [+4 ~0.00] [Out-of-date: 2026-06-24]
+    Browser fork of Floorp fork of Firefox by Astian
+aur/mozregression-gui 7.0.0-1 [+4 ~0.00] [Orphaned]
+    Regression range finder for Firefox
+aur/palemoon-gtk3 1:34.2.2-2 [+4 ~0.16]
+    Open source web browser based on Firefox focusing on efficiency.
+aur/rdrview 0.1.5-1 [+4 ~1.20]
+    Firefox Reader View as a command line tool
+aur/firefox-auto-tab-discard 0.6.7-1 [+3 ~0.00]
+    Use native tab discard method to automatically reduce memory usage of inactive tab
+aur/firefox-extension-bitwarden 2026.6.1-1 [+3 ~0.00]
+    Bitwarden browser extension for Firefox
+aur/firefox-extension-gnome-shell-integration 12-1 [+3 ~0.00]
+    GNOME shell integration addon for firefox.
+aur/firefox-extension-google-search-link-fix 1.6.10-3 [+3 ~0.00]
+    Prevents Google and Yandex search pages from modifying search result links when you click them
+aur/firefox-extension-istilldontcareaboutcookies-bin 1.1.8-1 [+3 ~0.60]
+    Debloated fork of the extension I don't care about cookies
+aur/firefox-extension-localcdn 2.6.85-1 [+3 ~0.00]
+    LocalCDN addon for Firefox
+aur/firefox-extension-multi-account-containers 8.2.0-1 [+3 ~0.00] [Out-of-date: 2025-08-25]
+    Firefox extension that lets you assign websites to isolated containers to help protect privacy.
+aur/firefox-extension-uget-integration-bin 2.1.3.2resigned1-1 [+3 ~0.00]
+    Integrate Mozilla Firefox with uGet download manager (binary release)
+aur/firefox-extension-video-download-helper 10.5.2.2-1 [+3 ~0.00]
+    The easy way to download and convert Web videos from hundreds of YouTube-like sites.
+aur/firefox-hardening r64.27255a6-1 [+3 ~0.00]
+    Firefox hardening stuff
+aur/firefox-profile-switcher-connector 0.1.1-1 [+3 ~0.00]
+    Native connector software for the 'Profile Switcher for Firefox' extension.
+aur/firefox-userchromejs 150.0a1-1 [+3 ~0.00]
+    Patching Firefox to enable JS injection (userchrome-js)
+aur/glide-browser-bin 0.1.63a-1 [+3 ~0.08]
+    An extensible and keyboard-focused web browser built on Firefox
+aur/gnome-shell-extension-pip-on-top-git r20.cd80aa2-1 [+3 ~0.00]
+    Makes Picture-in-Picture windows stay on top (even on Wayland session). Compatible with Firefox and Clapper media player.
+aur/hellfire-browser-bin 154.0a1-1 [+3 ~0.16]
+    Optimized Firefox for GNU/Linux
+aur/mozillavpn-git 2.37.0.r48.ga41e47e-1 [+3 ~0.04]
+    Fast, secure, and easy to use VPN from the makers of Firefox
+aur/sandfox 20131018-1 [+3 ~0.00] [Out-of-date: 2024-01-04] [Orphaned]
+    Runs Firefox and other apps in a sandbox with limited access to the filesystem
+aur/activity-aware-firefox 0.4.2-1 [+2 ~0.00]
+    wrapper to make Firefox aware of Plasma Desktop activities
+aur/addwater 1.3-1 [+2 ~0.04]
+    Installer for the Firefox GNOME theme
+aur/fido2-hid-bridge 0.1.0-1 [+2 ~0.65] [Out-of-date: 2026-03-20]
+    This allows using authenticators over PC/SC from applications that only support USB-HID, such as Firefox; with this program running you can use NFC authenticators or Smartcards.
+aur/firefox-bookmarkdupes 6.6-1 [+2 ~0.00] [Out-of-date: 2025-11-01]
+    Display/Remove duplicate bookmarks, empty folders or descriptions
+aur/firefox-decrypt-git 1.1.1+24.r339.20251113.7aad315-1 [+2 ~0.00]
+    A tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles.
+aur/firefox-developer-edition-firefox-symlink-latest 129.0b3-1 [+2 ~0.00]
+    Adds a 'firefox'-symlink for 'firefox-developer-edition'. Also symlinks extensions, icon- and .desktop-files.
+aur/firefox-developer-edition-vencord-bin 1.14.15-1 [+2 ~0.01]
+    The cutest Discord client mod
+aur/firefox-extension-cookie-autodelete 3.8.2-1 [+2 ~0.00]
+    Firefox extension that automatically deletes cookies.
+aur/firefox-extension-credentialsd 0.2.0-1 [+2 ~0.64]
+    Firefox helper extension for credentialsd
+aur/firefox-extension-fastforward 0.2237-2 [+2 ~0.00] [Orphaned]
+    Firefox extension that automatically skips annoying link shorteners.
+aur/firefox-extension-gsconnect 8-1 [+2 ~0.00] [Orphaned]
+    gsconnect addon for firefox.
+aur/firefox-extension-hide-fixed-elements 1.4-2 [+2 ~0.00]
+    Browser extension to hide position:fixed elements
+aur/firefox-extension-plasma-integration 2.2-1 [+2 ~0.00]
+    KDE plasma browser integration extension for firefox
+aur/firefox-extension-privacy-redirect 1.1.49-2 [+2 ~0.00]
+    Redirect Youtube, Twitter, Instagram, ... to privacy friendly alternatives
+aur/firefox-extension-privacybadger 2026.2.20-1 [+2 ~0.12]
+    Block third party tracking in your browser
+aur/firefox-extension-proton-vpn 1.3.1-1 [+2 ~0.47]
+    Proton VPN extension for Firefox
+aur/firefox-extension-reddit-enhancement-suite 5.24.8-1 [+2 ~0.00]
+    Suite of modules that enhances your Reddit browsing experience
+aur/firefox-extension-smart-referer 0.2.15-1 [+2 ~0.00]
+    Browser extension that automatically hides the referer when changing domains
+aur/firefox-extension-tab-session-manager 7.0.1-1 [+2 ~0.00]
+    Firefox extension to save and restore the state of windows and tabs
+aur/firefox-extension-trackmenot 0.10.46-1 [+2 ~0.00] [Orphaned]
+    Firefox extension to protect web habits from tracking and profiling
+aur/firefox-mega 3.20.6-1 [+2 ~0.00] [Out-of-date: 2025-07-31] [Orphaned]
+    MEGA extension for Firefox; enables better support for mega.co.nz downloads
+aur/firefox-multi-account-containers-lite 8.3.7003-1 [+2 ~0.10]
+    Debranded Multi-Account-Containers fork from Konform Browser for separate installation
+aur/firefox-nightly-i18n-pt-br 154.0a1.20260707.211043-1 [+2 ~1.00]
+    Portuguese (Brazilian) language pack for Firefox Nightly
+aur/firefox-stylus 1.5.46-1 [+2 ~0.00]
+    Easily install themes and skins for many popular sites
+aur/firefox-temporary-containers 1.9.2-3 [+2 ~0.00]
+    Open tabs, websites, and links in automatically managed disposable containers
+aur/firefox-umatrix 1.4.4-1 [+2 ~0.01]
+    Point and click matrix to filter net requests by source, destination and type
+aur/firefox-user-autoconfig 2-1 [+2 ~0.00]
+    Make firefox use a source controllable autoconfig file in the user home
+aur/firefox-user-autoconfig-no-sandbox 2-1 [+2 ~0.00]
+    Make firefox use a source controllable autoconfig file in the user home
+aur/firefox-vencord-bin 1.14.15-1 [+2 ~0.01]
+    The cutest Discord client mod
+aur/icecat-bin 140.12.0-1 [+2 ~0.50]
+    GNU version of the Firefox ESR browser
+aur/mozregression-gui-bin 7.2.0-1 [+2 ~0.00]
+    Regression range finder for Firefox
+aur/nodejs-readability-cli 2.4.5-1 [+2 ~0.00]
+    Firefox Reader Mode in your terminal! - CLI tool for Mozilla's Readability library
+aur/piri-git r15.ca97b74-1 [+2 ~0.24]
+    A simple program to make the firefox pip persist across workspaces in niri
+aur/zen-browser-twilight-bin 1.22t-14 [+2 ~0.98]
+    Zen Browser (Twilight Build) - Performance oriented Firefox-based web browser
+aur/connective-plugin-linux-firefox 0.0.1-1 [+1 ~0.00]
+    A replacement for the Connective Browser Plugin - Firefox setup and plugin included
+aur/deno-readability-cli 2.4.5-1 [+1 ~0.00]
+    Firefox Reader Mode in your terminal! - CLI tool for Mozilla's Readability library
+aur/dumpzilla-git r44.ec337da-2 [+1 ~0.00]
+    Extract All Forensic Interesting Information Of Firefox, Iceweasel And Seamonkey
+aur/ff-password-exporter-appimage 1.2.0-1 [+1 ~0.00] [Orphaned]
+    Easily export your passwords from Firefox.
+aur/ffsclient-bin 1.10.0-1 [+1 ~0.00]
+    A cli to access firefox-sync data
+aur/ffsclient-git 1.10.0-1 [+1 ~0.00]
+    A cli to access firefox-sync data
+aur/firefox-css-exfil-protection 1.1.0-1 [+1 ~0.00] [Orphaned]
+    Guard against CSS data exfiltration attacks
+aur/firefox-esr-extension-plasma-integration 2.0-1 [+1 ~0.00]
+    KDE plasma browser integration extension for firefox ESR
+aur/firefox-extension-amber 1.21-1 [+1 ~0.00]
+    Bring the Unix philosophy to the browser.
+aur/firefox-extension-amber-bridge 0.2.0-1 [+1 ~0.00]
+    Bring the Unix philosophy to the browser.
+aur/firefox-extension-auto-sort-bookmarks 3.4.5-1 [+1 ~0.00] [Orphaned]
+    Firefox add-on that sorts bookmarks by multiple criteria.
+aur/firefox-extension-bitwarden-git 2026.6.1.r22239.gc375461-1 [+1 ~0.00]
+    Bitwarden browser extension for Firefox
+aur/firefox-extension-canvasblocker-bin 1.12-2 [+1 ~0.00]
+    Alters some JS APIs to prevent fingerprinting.
+aur/firefox-extension-connective-signing 1.0.5-1 [+1 ~0.00]
+    Connective Signing Extension for Firefox
+aur/firefox-extension-dont-track-me-google 4.27-1 [+1 ~0.00] [Orphaned]
+    Firefox extensions to prevent Google from making links ugly.
+aur/firefox-extension-duckduckgo-privacy-essentials 2023.4.11-1 [+1 ~0.00]
+    DuckDuckGo Privacy Essentials browser extension for Firefox.
+aur/firefox-extension-facebook-container 2.3.9-1 [+1 ~0.00] [Out-of-date: 2026-02-24]
+    Browser plugin to containerize Facebook and its affiliates.
+aur/firefox-extension-foxyproxy-basic 7.5.1-1 [+1 ~0.00] [Orphaned]
+    FoxyProxy Basic is a simple on/off proxy switcher - basic version
+aur/firefox-extension-gnome-download-notifications 1.3.0-1 [+1 ~0.00] [Orphaned]
+    Native notification integration for completed downloads addon for Firefox.
+aur/firefox-extension-gooreplacer 3.13.0-2 [+1 ~0.00]
+    A browser extension to modify HTTP requests
+aur/firefox-extension-kdeconnect 0.1.6-1 [+1 ~0.00] [Out-of-date: 2023-10-20] [Orphaned]
+    kdeconnect addon for firefox.
+aur/firefox-extension-link-gopher 2.4.4-1 [+1 ~0.00] [Orphaned]
+    Firefox extension for extracting all links from web page, sorting them, removing duplicates, and displaying them in a new tab for inspection or copy and paste into other systems.
+aur/firefox-extension-linkding-bin 1.14.0-1 [+1 ~0.00]
+    Companion extension for the self-hosted linkding bookmark service
+aur/firefox-extension-listen1 2.32.0-1 [+1 ~0.00] [Out-of-date: 2025-10-01] [Orphaned]
+    One for all free music in China
+aur/firefox-extension-old-reddit-redirect 2.1.0-1 [+1 ~0.00]
+    Ensure Reddit always loads the old design
+aur/firefox-extension-privacy-pass 3.0.5-1 [+1 ~0.00] [Orphaned]
+    Firefox extension implements the client-side of the Privacy Pass protocol providing unlinkable cryptographic tokens.
+aur/firefox-extension-proxy-switchyomega 2.5.20-1 [+1 ~0.00] [Orphaned]
+    Proxy SwitchyOmega addon for Firefox.
+aur/firefox-extension-radical-native 1:0.1beta15-1 [+1 ~0.00]
+    Extending Riot Web with native capabilities
+aur/firefox-extension-reverse-image-search 4.4.3-1 [+1 ~0.00]
+    Context menu to search with an image on various services, such as Google, Bing, Yandex, TinEye, SauceNAO and IQDB
+aur/firefox-extension-rikaichamp 1.14.0-1 [+1 ~0.00]
+    Translate Japanese by hovering over words
+aur/firefox-extension-ruffle-nightly 0.2.0+nightly+20260708-1 [+1 ~0.28]
+    A Flash Player emulator written in Rust. (Nightly version) (Unsigned Firefox extension)
+aur/firefox-extension-search-by-image 3.6.4-1 [+1 ~0.00] [Orphaned]
+    Search by Image add-on for Firefox
+aur/firefox-extension-simplelogin-bin 3.0.7-1 [+1 ~0.00]
+    Create a different email for each website to hide your real email
+aur/firefox-extension-singlefile-bin 1.22.81-1 [+1 ~0.00]
+    Save an entire web page—including images and styling - as a single HTML file
+aur/firefox-extension-skip-redirect 2.3.6-1 [+1 ~0.00]
+    Skip intermediary pages that some pages use before redirecting to a final page
+aur/firefox-extension-skip-redirect-bin 2.3.6-1 [+1 ~0.00]
+    Skip intermediary pages that some pages use before redirecting to a final page
+aur/firefox-extension-sponsorblock 6.1.6-1 [+1 ~0.00]
+    Skip YouTube video sponsors
+aur/firefox-extension-sponsorblock-beta 5.14-1 [+1 ~0.00]
+    Easily skip YouTube video sponsors.
+aur/firefox-extension-synclair-bin 1.4.3-1 [+1 ~0.28]
+    Customizable home page/new tab using html, css and sheets of links
+aur/firefox-extension-ublacklist 9.1.0-1 [+1 ~0.00] [Out-of-date: 2026-05-23]
+    Blocks specific sites from appearing in Google search results
+aur/firefox-extension-undo-close-tab-button 1.7-1 [+1 ~0.00]
+    Browser extension that adds toolbar buttons for quick access to undo the closing of tabs
+aur/firefox-extension-user-agent-string-switcher 0.4.9-1 [+1 ~0.00] [Out-of-date: 2025-07-17] [Orphaned]
+    Firefox User-Agent spoofer extension that is highly configurable.
+aur/firefox-extension-user-agent-switcher 1.4.102-1 [+1 ~0.00]
+    Firefox extension to override the browser's User-Agent string
+aur/firefox-extension-violentmonkey 2.40.0-1 [+1 ~0.49]
+    Web Extension for saving a faithful copy of a complete web page in a single HTML file
+aur/firefox-extension-yomichan 22.10.23.0-1 [+1 ~0.00]
+    Firefox extension that provides a Japanese dictionary with Anki integration
+aur/firefox-floccus 4.2.5-1 [+1 ~0.00]
+    Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution) https://floccus.org
+aur/firefox-history-merger 2.12.0-1 [+1 ~0.00]
+    A CLI application to merge Firefox history and repair missing favicons
+aur/firefox-no-reserved-keys-patch 1.1-1 [+1 ~0.00]
+    hot patch Firefox after install or update to un-reserve all key bindings
+aur/firefox-passff-git 1.6.3.r0.a2cea40-1 [+1 ~0.00]
+    zx2c4 pass manager addon for firefox
+aur/firefox-session-manager 0.1.2-2 [+1 ~0.00]
+    Manager for your Firefox sessions
+aur/firefox-sponsorblock-for-youtube-skip-sponsorships-bin 5.13.3-1 [+1 ~0.00] [Out-of-date: 2025-10-24] [Orphaned]
+    Easily skip YouTube video sponsors.
+aur/firefox-vimium 1.63.3-1 [+1 ~0.00] [Out-of-date: 2018-12-30]
+    Provides keyboard shortcuts for navigation and control in the spirit of Vim
+aur/flamewolf-bin 128.1.2-2 [+1 ~0.00]
+    A crazy fork of Firefox, focused on privacy and features.
+aur/flowfox 150.0-1 [+1 ~0.01]
+    Fork of Firefox with minimal changes, including rebinding of default keyboard shortcuts to better match Chromium. Not affiliated with Mozilla. (Source version.)
+aur/foxify-cli-git 4a780aa-3 [+1 ~0.00]
+    Firefox Command-Line Theme Manager
+aur/foxmarks 2.1.1-1 [+1 ~0.00]
+    A CLI read-only interface for firefox's bookmarks and history
+aur/gilbert 1.005-1 [+1 ~0.00]
+    Font made in tribute of Gilbert Baker, creator of the Rainbow Flag. Two versions of the font are available, one is compatible system-wide while the other is only compatible with Firefox because it is an OpenType-SVG font.
+aur/krunner-firefox-git r140.462a302-2 [+1 ~0.00]
+    Launch Firefox profiles from Krunner and your normal launcher.
+aur/librewolf-hellfire 1:144.0_1-1 [+1 ~0.01] [Out-of-date: 2025-11-01]
+    LibreWolf with HellFire performance optimizations - privacy-focused Firefox fork with extreme performance tuning
+aur/metamask-firefox 12.18.1-1 [+1 ~0.00] [Out-of-date: 2026-01-25]
+    Browser extension that enables browsing Ethereum blockchain enabled websites
+aur/rofi-browser 1.2.0-1 [+1 ~0.00]
+    A simple profile launcher for Mozilla Firefox-based browsers
+aur/rofi-browser-bin 1.2.0-1 [+1 ~0.00]
+    A simple profile launcher for Mozilla Firefox-based browsers
+aur/rofi-firefox-profiles 1.0.1-5 [+1 ~0.00]
+    Launch Firefox with a selected profile using rofi
+aur/textern-native-messaging-host 0.8-1 [+1 ~0.04]
+    Native Messaging Host for the Textern firefox addon.
+aur/autohosts 3.0.1-1 [+0 ~0.00] [Orphaned]
+    Automate hosts file updates on Linux and MacOS. Block Firefox telemetry, Google snooping and web trackers at the root
+aur/bergamont-marian-git 20220710-1 [+0 ~0.00] [Out-of-date: 2023-06-15]
+    Bergamont project (browser.mt) fork of the marian translator with language models used by Mozilla Firefox Translations
+aur/camofox-browser-bin 1.11.2-2 [+0 ~0.00]
+    Anti-detection browser server for AI agents — REST API wrapping Camoufox stealth browser engine (Firefox fork with C++-level fingerprint spoofing)
+aur/ctool-bin 2.3.0-1 [+0 ~0.00]
+    程序开发常用工具 chrome /edge/firefox /utools/windows /linux/mac
+aur/desktop-like-mobile-config-firefox 4.0.0-1 [+0 ~0.00] [Orphaned]
+    Mobile configuration for Firefox - minimal changes from desktop
+aur/edge-frfox 24.4.18-1 [+0 ~0.00] [Orphaned]
+    A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
+aur/extension-downloader-git v0.2.0.r21.g982d002-1 [+0 ~0.00]
+    Download browser extensions for Firefox and Chromium-based browsers
+aur/ffapp 0.3.0-1 [+0 ~0.00]
+    ffapp is a simple tool for creating and managing Firefox web apps
+aur/ffcss 0.2.0-1 [+0 ~0.00]
+    A CLI interface to apply and configure FirefoxCSS themes
+aur/ffox-remote 20141024.b936fe94248eb084883211289020e1c1d43f6a71-1 [+0 ~0.00]
+    Lightweight remote control for Unix Firefox
+aur/firefox-arkenfox-autoconfig 140.1-1 [+0 ~0.00]
+    Use arkenfox user.js system-wide, as Firefox autoconfig.js policy
+aur/firefox-awesome-rss 1.3.5-1 [+0 ~0.00]
+    Puts an RSS/Atom subscribe button back in URL bar
+aur/firefox-babble 0.2.1-1 [+0 ~0.00]
+    A platform agnostic browser extension that allows for easy encryption and decryption of text data across the web.
+aur/firefox-binnenibegone 3.1.1-1 [+0 ~0.00] [Orphaned]
+    remove so called Binnen-Is on webpages
+aur/firefox-blocktube 0.4.2-1 [+0 ~0.00] [Orphaned]
+    YouTube content blocker.
+aur/firefox-chrome-manager-git r11.1481abf-1 [+0 ~0.00]
+    Firefox userChrome.css Installer
+aur/firefox-color 2.1.7-1 [+0 ~0.00]
+    Build, save and share beautiful Firefox themes.
+aur/firefox-debugadapter 2.15.0-1 [+0 ~0.00]
+    Debug Adapter for Firefox
+aur/firefox-developer-edition-arkenfox-autoconfig 140.1-1 [+0 ~0.00]
+    Use arkenfox user.js system-wide, as Firefox Developer Edition autoconfig.js policy
+aur/firefox-developer-edition-i18n-zh-cm 153.0b9-1 [+0 ~0.00]
+    Chinese (Simplified) language pack for Firefox Developer Edition (with classic context menu mnemonics, see bugzilla #1701324)
+aur/firefox-developer-edition-vencord-git 1.13.5.r0.gc9ebece-3 [+0 ~0.00]
+    The cutest Discord client mod
+aur/firefox-esr-arkenfox-autoconfig 140.1-1 [+0 ~0.00]
+    Use arkenfox user.js system-wide, as Firefox ESR autoconfig.js policy
+aur/firefox-esr-decentraleyes 2.0.18-1 [+0 ~0.00] [Out-of-date: 2024-04-01] [Orphaned]
+    Local emulation of Content Delivery Networks
+aur/firefox-esr-extension-bitwarden 2025.5.0-1 [+0 ~0.00]
+    Bitwarden browser extension for Firefox ESR
+aur/firefox-esr-extension-download-with-aria2 4.12.0.2974-1 [+0 ~0.00]
+    The Aria2 Download Manager for Firefox ESR
+aur/firefox-esr-extension-privacybadger 2024.6.14-1 [+0 ~0.00]
+    Block third party tracking in your browser
+aur/firefox-esr-extension-switchyomega 2.5.20-2 [+0 ~0.00]
+    Manage and switch between multiple proxies quickly & easily.
+aur/firefox-esr-noscript 11.4.29-1 [+0 ~0.00]
+    Extension for firefox which disables javascript
+aur/firefox-esr-ublock-origin 1.58.0-1 [+0 ~0.00]
+    Efficient blocker add-on for various browsers. Fast, potent, and lean
+aur/firefox-esr-zh-bin 140.11.0-1 [+0 ~0.00]
+    Standalone web browser from mozilla.org - Extended Support Release
+aur/firefox-extension-accept-language-per-site 0.4.0-1 [+0 ~0.00]
+    Firefox extension to change Accept-Language for different sites
+aur/firefox-extension-adguard 5.4.3.1-1 [+0 ~0.00]
+    AdGuard browser extension.
+aur/firefox-extension-adnauseam-bin-amo 3.27.0-1 [+0 ~0.00]
+    This package contains latest version of AdNauseam from addon.mozilla.org (AMO). AdNauseam is a lightweight browser extension that blends software tool and artware intervention to actively fight back against tracking by advertising networks.
+aur/firefox-extension-amazon-container 2.0.0-1 [+0 ~0.00]
+    Browser plugin to containerize Amazon and its affiliates.
+aur/firefox-extension-enhancer-for-youtube-bin 2.0.133.1-2 [+0 ~0.00]
+    Take control of YouTube and boost your user experience!
+aur/firefox-extension-floccus 5.10.1-1 [+0 ~0.00]
+    Sync your bookmarks privately across browsers and devices
+aur/firefox-extension-hohser 4.6.1-1 [+0 ~0.00]
+    Highlight or hide search engine results
+aur/firefox-extension-image-block 5.0-1 [+0 ~0.00]
+    Image Block adds a toggle button that conditionally blocks/allows loading of images on webpages.
+aur/firefox-extension-keepassxc-browser-git 1.7.11.r54.ga037a0b-1 [+0 ~0.00]
+    Official browser plugin for the KeePassXC password manager.
+aur/firefox-extension-leechblock 1.6.9-1 [+0 ~0.00] [Orphaned]
+    LeechBlock is a simple free productivity tool designed to block those time-wasting sites that can suck the life out of your working day.
+aur/firefox-extension-listen1-git r504.4eed624-1 [+0 ~0.00] [Orphaned]
+    One for all free music in China
+aur/firefox-extension-location-guard 2.5.0-2 [+0 ~0.00]
+    Hide your geographic location from websites.
+aur/firefox-extension-multi-account-containers-bin 8.3.8-2 [+0 ~0.00]
+    Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts and integrate Mozilla VPN for an extra layer of privacy.
+aur/firefox-extension-netvyne-git 1.0.9.r37.3d66124-1 [+0 ~0.00] [Orphaned]
+    Firefox extension to leave and read comments on any URL
+aur/firefox-extension-open-url-in-container-cli-git 2.0.0alpha10.r0.g4fa3765-1 [+0 ~0.00]
+    `firefox-container` script to open URLs in firefox containers from the command line.
+aur/firefox-extension-overbitenx 0.9.2.1-1 [+0 ~0.00]
+    Add gopher support to Firefox (beta)
+aur/firefox-extension-privacy-redirect-bin 1.1.49-2 [+0 ~0.00]
+    Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives.
+aur/firefox-extension-refined-github-bin 25.11.22-1 [+0 ~0.00]
+    Simplifies the GitHub interface and adds many useful features
+aur/firefox-extension-return-youtube-dislike-bin 3.0.0.13-1 [+0 ~0.00]
+    Returns ability to see dislike statistics on youtube (binary release)
+aur/firefox-extension-ruffle 0.3.0-1 [+0 ~0.00]
+    A Flash Player emulator written in Rust. (Unsigned Firefox extension)
+aur/firefox-extension-single-file 1.2.0-1 [+0 ~0.00]
+    Web Extension for saving a faithful copy of a complete web page in a single HTML file
+aur/firefox-extension-styl-us-bin 2.4.5-2 [+0 ~0.00]
+    Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager. Easily install custom themes from popular online repositories, or create, edit, and manage your own personalized CSS stylesheets.
+aur/firefox-extension-tab-stash 3.0.1-1 [+0 ~0.00] [Out-of-date: 2025-04-18] [Orphaned]
+    Firefox extension to save and restore tabs as bookmarks
+aur/firefox-extension-violentmonkey-bin 2.30.0-1 [+0 ~0.00]
+    Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+aur/firefox-extension-web-eid 2.4.1-1 [+0 ~0.00]
+    Web eID Firefox extension (unsigned)
+aur/firefox-extension-xdman8-browser-monitor-bin 3.4-2 [+0 ~0.00]
+    Download files with XDM v8+ (binary release)
+aur/firefox-extensions-shinigami-eyes-bin 1.0.33-2 [+0 ~0.00] [Orphaned]
+    Highlights transphobic/anti-LGBT and trans-friendly subreddits/facebook pages/groups with different colors.
+aur/firefox-globalmenu 152.0.1-1 [+0 ~0.00]
+    Fast, Private & Safe Web Browser
+aur/firefox-gnome-theme-nightly-git r1134.fe2b635-1 [+0 ~0.00]
+    A GNOME theme for Firefox Nightly
+aur/firefox-grammalecte 2.3.0-1 [+0 ~0.00]
+    Firefox Grammalecte plugin (orthographe et grammaire en langue française)
+aur/firefox-hwaccel 1.0.0-1 [+0 ~0.00]
+    Enable VA-API hardware video decode in Firefox and forks
+aur/firefox-i3-workspaces 0.10-2 [+0 ~0.00]
+    Firefox addon to restore windows to correct i3 workspaces
+aur/firefox-kiosk-session 1.0-1 [+0 ~0.00] [Orphaned]
+    Firefox Kiosk Xsession
+aur/firefox-librejs 7.21.1-2 [+0 ~0.00]
+    detects and blocks nonfree nontrivial JavaScript
+aur/firefox-nightly-i18n-ach 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Acholi language pack for Firefox Nightly
+aur/firefox-nightly-i18n-af 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Afrikaans language pack for Firefox Nightly
+aur/firefox-nightly-i18n-an 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Aragonese language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ar 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Arabic language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ast 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Asturian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-az 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Azerbaijani language pack for Firefox Nightly
+aur/firefox-nightly-i18n-be 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Belarusian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-bg 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Bulgarian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-bn 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Bengali language pack for Firefox Nightly
+aur/firefox-nightly-i18n-br 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Breton language pack for Firefox Nightly
+aur/firefox-nightly-i18n-bs 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Bosnian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ca 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Catalan language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ca-valencia 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Catalan (Valencian) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-cak 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Maya Kaqchikel language pack for Firefox Nightly
+aur/firefox-nightly-i18n-cs 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Czech language pack for Firefox Nightly
+aur/firefox-nightly-i18n-cy 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Welsh language pack for Firefox Nightly
+aur/firefox-nightly-i18n-da 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Danish language pack for Firefox Nightly
+aur/firefox-nightly-i18n-de 154.0a1.20260707.211043-1 [+0 ~0.00]
+    German language pack for Firefox Nightly
+aur/firefox-nightly-i18n-dsb 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Lower Sorbian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-el 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Greek language pack for Firefox Nightly
+aur/firefox-nightly-i18n-en-ca 154.0a1.20260707.211043-1 [+0 ~0.00]
+    English (Canadian) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-en-gb 154.0a1.20260707.211043-1 [+0 ~0.00]
+    English (British) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-eo 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Esperanto language pack for Firefox Nightly
+aur/firefox-nightly-i18n-es-ar 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Spanish (Argentina) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-es-cl 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Spanish (Chile) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-es-es 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Spanish (Spain) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-es-mx 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Spanish (Mexico) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-et 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Estonian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-eu 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Basque language pack for Firefox Nightly
+aur/firefox-nightly-i18n-fa 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Persian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ff 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Fulah language pack for Firefox Nightly
+aur/firefox-nightly-i18n-fi 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Finnish language pack for Firefox Nightly
+aur/firefox-nightly-i18n-fr 154.0a1.20260707.211043-1 [+0 ~0.00]
+    French language pack for Firefox Nightly
+aur/firefox-nightly-i18n-fy-nl 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Frisian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ga-ie 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Irish language pack for Firefox Nightly
+aur/firefox-nightly-i18n-gd 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Gaelic (Scotland) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-gl 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Galician language pack for Firefox Nightly
+aur/firefox-nightly-i18n-gn 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Guarani language pack for Firefox Nightly
+aur/firefox-nightly-i18n-gu-in 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Gujarati (India) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-he 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Hebrew language pack for Firefox Nightly
+aur/firefox-nightly-i18n-hi-in 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Hindi (India) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-hr 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Croatian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-hsb 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Upper Sorbian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-hu 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Hungarian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-hy-am 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Armenian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ia 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Interlingua language pack for Firefox Nightly
+aur/firefox-nightly-i18n-id 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Indonesian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-is 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Icelandic language pack for Firefox Nightly
+aur/firefox-nightly-i18n-it 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Italian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ja 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Japanese language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ka 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Georgian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-kab 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Kabyle language pack for Firefox Nightly
+aur/firefox-nightly-i18n-kk 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Kazakh language pack for Firefox Nightly
+aur/firefox-nightly-i18n-km 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Khmer language pack for Firefox Nightly
+aur/firefox-nightly-i18n-kn 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Kannada language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ko 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Korean language pack for Firefox Nightly
+aur/firefox-nightly-i18n-lij 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Ligurian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-lt 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Lithuanian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-lv 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Latvian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-mk 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Macedonian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-mr 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Marathi language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ms 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Malay language pack for Firefox Nightly
+aur/firefox-nightly-i18n-my 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Burmese language pack for Firefox Nightly
+aur/firefox-nightly-i18n-nb-no 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Norwegian (Bokmål) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ne-np 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Nepali language pack for Firefox Nightly
+aur/firefox-nightly-i18n-nl 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Dutch language pack for Firefox Nightly
+aur/firefox-nightly-i18n-nn-no 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Norwegian (Nynorsk) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-oc 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Occitan language pack for Firefox Nightly
+aur/firefox-nightly-i18n-pa-in 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Punjabi (India) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-pl 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Polish language pack for Firefox Nightly
+aur/firefox-nightly-i18n-pt-pt 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Portuguese (Portugal) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-rm 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Romansh language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ro 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Romanian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ru 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Russian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-si 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Sinhala language pack for Firefox Nightly
+aur/firefox-nightly-i18n-sk 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Slovak language pack for Firefox Nightly
+aur/firefox-nightly-i18n-sl 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Slovenian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-son 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Songhai language pack for Firefox Nightly
+aur/firefox-nightly-i18n-sq 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Albanian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-sr 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Serbian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-sv-se 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Swedish language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ta 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Tamil language pack for Firefox Nightly
+aur/firefox-nightly-i18n-te 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Telugu language pack for Firefox Nightly
+aur/firefox-nightly-i18n-th 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Thai language pack for Firefox Nightly
+aur/firefox-nightly-i18n-tl 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Tagalog language pack for Firefox Nightly
+aur/firefox-nightly-i18n-tr 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Turkish language pack for Firefox Nightly
+aur/firefox-nightly-i18n-trs 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Chicahuaxtla Triqui language pack for Firefox Nightly
+aur/firefox-nightly-i18n-uk 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Ukrainian language pack for Firefox Nightly
+aur/firefox-nightly-i18n-ur 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Urdu language pack for Firefox Nightly
+aur/firefox-nightly-i18n-uz 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Uzbek language pack for Firefox Nightly
+aur/firefox-nightly-i18n-vi 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Vietnamese language pack for Firefox Nightly
+aur/firefox-nightly-i18n-xh 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Xhosa language pack for Firefox Nightly
+aur/firefox-nightly-i18n-zh-cn 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Chinese (Simplified) language pack for Firefox Nightly
+aur/firefox-nightly-i18n-zh-tw 154.0a1.20260707.211043-1 [+0 ~0.00]
+    Chinese (Traditional) language pack for Firefox Nightly
+aur/firefox-omni-tweaks-git r77.c6637e3-1 [+0 ~0.00]
+    A script that disables the clickSelectsAll behavior of Firefox, and more.
+aur/firefox-onetab 1.17.0-1 [+0 ~0.00] [Out-of-date: 2024-01-16]
+    Extension for firefox which convert tabs to a list and reduce browser memory
+aur/firefox-privacy-badger-bin 2025.5.30-1 [+0 ~0.00] [Orphaned]
+    Automatically learns to block invisible trackers.
+aur/firefox-profile-launcher 1.0-2 [+0 ~0.00]
+    Simple Firefox profile launcher
+aur/firefox-profiles-selector 1.0.2-1 [+0 ~0.00] [Out-of-date: 2025-01-17]
+    Allow to select firefox profile when open an external link
+aur/firefox-pure 152.0.4-2 [+0 ~0.00]
+    Fast, Private & Safe Web Browser
+aur/firefox-redirector 3.5.4-1 [+0 ~0.00]
+    Automatically redirects to user-defined urls on certain pages
+aur/firefox-searchengine-ddghtml 1.0-1 [+0 ~0.00] [Orphaned]
+    Firefox french DuckDuckGo search engine
+aur/firefox-slack-policy 1-1 [+0 ~0.00]
+    Teach Firefox how to deal with slack:// URLs
+aur/firefox-snowflake 0.7.0-1 [+0 ~0.00] [Orphaned]
+    Firefox extension for a WebRTC pluggable transport for Tor
+aur/firefox-socket-control-git 1.5.13acc8b-1 [+0 ~0.00]
+    Control Firefox from a UNIX socket.
+aur/firefox-startpage-bin 2.0.3-1 [+0 ~0.00] [Orphaned]
+    This extension protects users from being tracked while allowing them to search the web in complete private mode.
+aur/firefox-tab-unloader-for-tree-style-tab 6.17-2 [+0 ~0.00]
+    Tab unload options for Tree Style Tab
+aur/firefox-thunderbird-spell-ru-en-unified 1.0.3.1webext-1 [+0 ~0.00]
+    firefox and thunderbird Rus+Eng unified spellcheck/dictionary (no switching). Thunderbird is just a symlink.
+aur/firefox-tosdr 4.1.1-1 [+0 ~0.00] [Orphaned]
+    Get informed instantly about websites' terms and privacy policies
+aur/firefox-user-agent-switcher-and-manager-bin 0.6.5.1-1 [+0 ~0.00]
+    Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.
+aur/firefox-vencord-git 1.13.5.r0.gc9ebece-3 [+0 ~0.00]
+    The cutest Discord client mod
+aur/firefox-video-speed-setter-git 1.5.2-2 [+0 ~0.00]
+    Firefox extension that gives you a simple control over video playback rate
+aur/firefox-webhid-bridge 0.2.3-3 [+0 ~0.00]
+    The server of firefox ADD-ONS WebHID for Firefox by Sainan
+aur/firefox-webserial 0.3.2-1 [+0 ~0.00] [Out-of-date: 2025-06-29]
+    Native connector for WebSerial API in Firefox
+aur/firefox-webserial-bin 0.4.0-1 [+0 ~0.00]
+    Native connector for WebSerial API in Firefox
+aur/firefox-youtube-no-buffer-git r6.128d9ed-1 [+0 ~0.00] [Out-of-date: 2024-02-03] [Orphaned]
+    A bulletproof Firefox only extension to prevent YouTube player from buffering.
+aur/firefox_remove_ctrl_q 1.0-1 [+0 ~0.00]
+    None
+aur/gnome-pywalfox-theme 0.1.4-1 [+0 ~0.00]
+    Pywalfox color patcher for firefox-gnome-theme
+aur/gokapi-cli-bin 2.1.0-1 [+0 ~0.00]
+    Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+aur/himitsu-firefox 0.9-1 [+0 ~0.00]
+    Native messaging component for the Himitsu Firefox extension
+aur/i2p-browser 2.5.0-1 [+0 ~0.00]
+    I2P Browser Bundle for Linux (Firefox ESR with I2P routing integration)
+aur/k-meleon-bin-wine 76.4-1 [+0 ~0.00]
+    A Firefox Based Browser (runs through wine)
+aur/legacyfox 5.0-1 [+0 ~0.00]
+    Legacy bootstrapped extensions for Firefox 65 and beyond
+aur/librewolf-extension-trackmenot 0.10.46-1 [+0 ~0.00] [Orphaned]
+    Firefox extension to protect web habits from tracking and profiling
+aur/librewolf-extension-user-agent-switcher 1.4.102-1 [+0 ~0.00]
+    Firefox extension to override the browser's User-Agent string
+aur/librewolf-gnome-search-provider 1-1 [+0 ~0.00]
+    GNOME shell search provider for LibreWolf (Based on firefox-gnome-search-provider)
+aur/metamask-firefox-git 10.32.0-1 [+0 ~0.00] [Out-of-date: 2024-04-19]
+    Firefox extension that enables interacting with Ethereum Virtual Machine networks enabled websites
+aur/mobile-config-firefox 4.6.0-1 [+0 ~0.00] [Out-of-date: 2025-11-13]
+    Mobile and privacy friendly configuration for Firefox
+aur/mobile-config-firefox-git 3.0.0+5+g87689ef-1 [+0 ~0.00] [Out-of-date: 2025-05-28]
+    Mobile and privacy friendly configuration for Firefox
+aur/mudslide 0.29.0-1 [+0 ~0.00] [Out-of-date: 2026-01-25] [Orphaned]
+    Firefox Reader Mode in your terminal! - CLI tool for Mozilla's Readability library
+aur/nodejs-readability-git 0.4.1.r11.g28843b6-1 [+0 ~0.00]
+    A standalone version of the readability library used for Firefox Reader View
+aur/opcoffox 1.0.0-1 [+0 ~0.00]
+    Script to provide a Firefox connected to an Openconnect VPN without affecting the hosts networking.
+aur/open-in-firefox 1.0.8-1 [+0 ~0.00]
+    Native messaging host for the 'Open in Firefox' Chrome extension (andy-portmen/native-client)
+aur/ph-userjs-updater 1.6.2-1 [+0 ~0.00]
+    Load or update user.js for Firefox and Thunderbird
+aur/phantom-browser-bin 155.6.3-1 [+0 ~0.00]
+    Privacy-focused Firefox fork with built-in DPI bypass, VPN (VLESS+REALITY), RKN blocklist sync and ad blocker
+aur/phoenix-flatpak 202606101-1 [+0 ~0.00]
+    Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
+aur/pt-plugin-plus-bin 1.6.1.2886-1 [+0 ~0.00]
+    Microsoft Edge, Google Chrome, Firefox browser plugin (Web Extensions), which is mainly used to assist the seeds of downloading PT station.
+aur/pt-plugin-plus-git 1.6.1.2884-1 [+0 ~0.00]
+    Microsoft Edge, Google Chrome, Firefox browser plugin (Web Extensions), which is mainly used to assist the seeds of downloading PT station.
+aur/puppeteer 25.3.0-1 [+0 ~0.00]
+    JavaScript API for Chrome and Firefox
+aur/puppeteer-core 25.3.0-1 [+0 ~0.00]
+    JavaScript API for Chrome and Firefox
+aur/pwalinks-git 0.r11.f85ff15-1 [+0 ~0.00]
+    Firefox native messaging host to open external links in default browser
+aur/python-fxa 0.7.9-1 [+0 ~0.00] [Out-of-date: 2026-02-11] [Orphaned]
+    Python library for interacting with the Firefox Accounts ecosystem
+aur/python-local_moonie 0.1.1-1 [+0 ~0.00]
+    Local OpenAI-compatible proxy with Firefox/Selenium search + Ollama backend for Avante.nvim
+aur/python-playwright-git 1.19.0.6.g14b56cf-1 [+0 ~0.00] [Orphaned]
+    a Python library to automate Chromium, Firefox and WebKit browsers with a single API
+aur/spidermonkey-git 130.0a1+20240803.1+gd92a07556499-1 [+0 ~0.00] [Out-of-date: 2024-08-03] [Orphaned]
+    Mozilla's JavaScript engine used in Firefox
+aur/translater-git 0.7.0.r8.g25d3a61-2 [+0 ~0.00]
+    command line translate tools, Use headless firefox internally, support Linux/Mac for now.
+aur/web-eid-firefox-git 2.6.0.r10.geee1522-1 [+0 ~0.00]
+    Web eID Firefox extension (git version)
+aur/zen-browser-bitwarden 2026.6.1-1 [+0 ~0.00]
+    Bitwarden browser extension for Firefox
+aur/zen-browser-dark-reader 4.9.124-1 [+0 ~0.00]
+    Inverts brightness of web pages and aims to reduce eyestrain while browsing the web. Symlink to the Firefox addon.
+aur/zen-browser-ublock-origin 2:1-2 [+0 ~0.00]
+    Efficient blocker add-on for various browsers. Fast, potent, and lean. Symlink to the Firefox addon.
