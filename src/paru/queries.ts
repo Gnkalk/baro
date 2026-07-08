@@ -51,3 +51,9 @@ export async function getPkgbuild(name: string): Promise<string> {
   assertQueryOk(stderr, code);
   return stdout;
 }
+
+export async function getParuVersion(): Promise<string> {
+  const { stdout, stderr, code } = await runParu(["--version"]);
+  assertQueryOk(stderr, code);
+  return stdout.split("\n")[0]?.trim() ?? "unknown";
+}

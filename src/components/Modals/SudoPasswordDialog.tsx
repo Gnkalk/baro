@@ -1,6 +1,7 @@
 import { useRef, useState } from "react";
 import { TextAttributes } from "@opentui/core";
 import { useKeyboard } from "@opentui/react";
+import { theme } from "../../theme";
 
 /**
  * Custom masked text entry via raw keypress capture — opentui's <input> has no
@@ -32,10 +33,10 @@ export function SudoPasswordDialog({ onSubmit }: { onSubmit: (password: string) 
 
   return (
     <box position="absolute" top={0} left={0} right={0} bottom={0} zIndex={50} alignItems="center" justifyContent="center">
-      <box borderStyle="double" title="sudo" padding={2} backgroundColor="#111111">
-        <text attributes={TextAttributes.BOLD}>[sudo] password required</text>
-        <text>{"*".repeat(length)}</text>
-        <text attributes={TextAttributes.DIM}>Enter to submit · password is not displayed</text>
+      <box borderStyle="double" borderColor={theme.border.accent} title="sudo" padding={2} backgroundColor={theme.bg.overlay}>
+        <text attributes={TextAttributes.BOLD} fg={theme.text.heading}>[sudo] password required</text>
+        <text fg={theme.accent.primary}>{"*".repeat(length)}</text>
+        <text attributes={TextAttributes.DIM} fg={theme.text.dim}>Enter to submit · password is not displayed</text>
       </box>
     </box>
   );

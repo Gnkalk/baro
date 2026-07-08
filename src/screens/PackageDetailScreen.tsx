@@ -5,6 +5,7 @@ import { usePackageCache } from "../app/packageCacheContext";
 import { getPackageInfo } from "../paru/queries";
 import { useAsyncQuery } from "../hooks/useAsyncQuery";
 import type { PackageInfo } from "../paru/types";
+import { theme, screenAccent } from "../theme";
 
 export function PackageDetailScreen({ pkg }: { pkg: { name: string; installed: boolean } }) {
   const cache = usePackageCache();
@@ -25,26 +26,26 @@ export function PackageDetailScreen({ pkg }: { pkg: { name: string; installed: b
   }, [cacheKey]);
 
   return (
-    <box flexDirection="column" flexGrow={1} padding={1}>
-      <box borderStyle="single" title={pkg.name} flexGrow={1} flexDirection="column" padding={1}>
-        {loading && <text attributes={TextAttributes.DIM}>Loading...</text>}
-        {error && <text fg="red">Error: {error}</text>}
+    <box flexDirection="column" flexGrow={1} padding={1} backgroundColor={theme.bg.base}>
+      <box borderStyle="single" borderColor={screenAccent.detail} title={pkg.name} flexGrow={1} flexDirection="column" padding={1}>
+        {loading && <text attributes={TextAttributes.DIM} fg={theme.text.dim}>Loading...</text>}
+        {error && <text fg={theme.semantic.error}>{`Error: ${error}`}</text>}
         {info?.fields.map((field, i) => (
           <box key={`${field.key}-${i}`} flexDirection="row">
             <box width={18}>
-              <text attributes={TextAttributes.BOLD}>{field.key}</text>
+              <text attributes={TextAttributes.BOLD} fg={theme.accent.secondary}>{field.key}</text>
             </box>
             <box flexDirection="column">
               {field.values.length === 0 ? (
-                <text attributes={TextAttributes.DIM}>None</text>
+                <text attributes={TextAttributes.DIM} fg={theme.text.dim}>None</text>
               ) : (
-                field.values.map((v, j) => <text key={j}>{v}</text>)
+                field.values.map((v, j) => <text key={j} fg={theme.text.body}>{v}</text>)
               )}
             </box>
           </box>
         ))}
       </box>
-      <text attributes={TextAttributes.DIM}>
+      <text attributes={TextAttributes.DIM} fg={theme.text.dim}>
         {pkg.installed ? "r: remove" : "i: install"} · Esc: back
       </text>
     </box>

@@ -1,4 +1,5 @@
 import { TextAttributes } from "@opentui/core";
+import { theme } from "../../theme";
 
 export function ConfirmDialog({
   title,
@@ -16,12 +17,16 @@ export function ConfirmDialog({
 
   return (
     <box position="absolute" top={0} left={0} right={0} bottom={0} zIndex={50} alignItems="center" justifyContent="center">
-      <box borderStyle="double" title={title} padding={2} backgroundColor="#111111">
-        <text attributes={TextAttributes.BOLD}>{message}</text>
+      <box borderStyle="double" borderColor={theme.border.accent} title={title} padding={2} backgroundColor={theme.bg.overlay}>
+        <text attributes={TextAttributes.BOLD} fg={theme.text.heading}>{message}</text>
         <select
+          width={20}
+          height={options.length}
           options={options}
           focused={true}
           showDescription={false}
+          selectedBackgroundColor={theme.bg.selected}
+          selectedTextColor={theme.accent.primary}
           onSelect={(_index, option) => onAnswer(option?.value === "y")}
         />
       </box>

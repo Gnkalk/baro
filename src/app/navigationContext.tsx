@@ -7,7 +7,9 @@ export type Screen =
   | { name: "pkgbuildReview"; pkgNames: string[] }
   | { name: "operationLog"; op: "install" | "remove" | "sysUpgrade" | "cleanCache" | "removeOrphans"; targets: string[] }
   | { name: "update" }
-  | { name: "installed" };
+  | { name: "installed" }
+  | { name: "status" }
+  | { name: "about" };
 
 interface NavState {
   stack: Screen[];

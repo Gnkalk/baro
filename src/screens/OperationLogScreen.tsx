@@ -8,6 +8,7 @@ import { GpgConfirmDialog } from "../components/Modals/GpgConfirmDialog";
 import { SelectProviderDialog } from "../components/Modals/SelectProviderDialog";
 import { GenericPromptDialog } from "../components/Modals/GenericPromptDialog";
 import type { OperationKind } from "../paru/types";
+import { theme, screenAccent } from "../theme";
 
 const TITLES: Record<OperationKind, string> = {
   install: "Installing",
@@ -26,17 +27,23 @@ export function OperationLogScreen({ op, targets }: { op: OperationKind; targets
   });
 
   return (
-    <box flexDirection="column" flexGrow={1} padding={1}>
-      <box borderStyle="single" title={`${TITLES[op]}${targets.length > 0 ? ": " + targets.join(", ") : ""}`} flexGrow={1} flexDirection="column">
+    <box flexDirection="column" flexGrow={1} padding={1} backgroundColor={theme.bg.base}>
+      <box
+        borderStyle="single"
+        borderColor={screenAccent.operationLog}
+        title={`${TITLES[op]}${targets.length > 0 ? ": " + targets.join(", ") : ""}`}
+        flexGrow={1}
+        flexDirection="column"
+      >
         <LogScrollbox lines={logs} />
       </box>
-      {error && <text fg="red">Error: {error}</text>}
+      {error && <text fg={theme.semantic.error}>{`Error: ${error}`}</text>}
       {result && (
-        <text attributes={TextAttributes.BOLD} fg={result.code === 0 ? "green" : "red"}>
-          {result.code === 0 ? "Done." : `Exited with code ${result.code}.`} Press Enter to return home.
+        <text attributes={TextAttributes.BOLD} fg={result.code === 0 ? theme.semantic.success : theme.semantic.error}>
+          {`${result.code === 0 ? "Done." : `Exited with code ${result.code}.`} Press Enter to return home.`}
         </text>
       )}
-      {!result && <text attributes={TextAttributes.DIM}>Running...</text>}
+      {!result && <text attributes={TextAttributes.DIM} fg={theme.accent.primary}>Running...</text>}
 
       {pendingPrompt?.type === "sudo" && <SudoPasswordDialog onSubmit={resolvePrompt} />}
       {pendingPrompt?.type === "gpg" && <GpgConfirmDialog pgpKey={pendingPrompt.key} onAnswer={(yes) => resolvePrompt(yes ? "y" : "n")} />}
