@@ -2,6 +2,7 @@ const PARU_ENV = {
   ...process.env,
   LANG: "C",
   LC_ALL: "C",
+  TERM: "dumb",
 };
 
 export interface RunResult {
@@ -33,54 +34,104 @@ export interface ParuProcessHandle {
   exited: Promise<number>;
 }
 
-/** Splits a stream of chunks into lines, treating both \n and \r as terminators (for progress bars). */
 export class LineSplitter {
   private buffer = "";
+  private replaceNext = false;
+  private cursorOffset = 0;
 
-  push(chunk: string): string[] {
+  push(chunk: string): Array<{ text: string; offset: number }> {
     this.buffer += chunk;
-    const lines: string[] = [];
-    let idx: number;
-    while ((idx = this.buffer.search(/[\r\n]/)) !== -1) {
-      lines.push(this.buffer.slice(0, idx));
-      this.buffer = this.buffer.slice(idx + 1);
+    
+    // Strip completed ANSI escape sequences EXCEPT cursor up (A)
+    this.buffer = this.buffer.replace(/\x1b\[[0-9;]*[B-Z]/gi, '');
+    
+    // If the buffer ends with an incomplete ANSI sequence, wait for more chunks
+    if (this.buffer.match(/\x1b\[?[0-9;]*$/)) {
+      return [];
+    }
+
+    const lines: Array<{ text: string; offset: number }> = [];
+    
+    // Normalize CRLF to LF to avoid empty replace lines
+    this.buffer = this.buffer.replace(/\r\n/g, '\n');
+
+    let match: RegExpMatchArray | null;
+    while ((match = this.buffer.match(/(\r|\n|\x1b\[[0-9]+A)/))) {
+      const idx = match.index!;
+      const token = match[0];
+      
+      const text = this.buffer.slice(0, idx);
+      
+      let offset = 0;
+      if (this.cursorOffset > 0) {
+        offset = this.cursorOffset;
+      } else if (this.replaceNext) {
+        offset = 1;
+      }
+
+      if (text.length > 0 || this.replaceNext) {
+        lines.push({ text, offset });
+      }
+
+      if (token === '\n') {
+        if (this.cursorOffset > 0) this.cursorOffset--;
+        this.replaceNext = false;
+      } else if (token === '\r') {
+        this.replaceNext = true;
+      } else if (token.endsWith('A')) {
+        const count = parseInt(token.replace(/\D/g, ''), 10) || 1;
+        this.cursorOffset += count;
+      }
+
+      this.buffer = this.buffer.slice(idx + token.length);
     }
     return lines;
   }
 
-  flush(): string[] {
+  getBuffer(): string {
+    return this.buffer;
+  }
+
+  flush(): Array<{ text: string; offset: number }> {
     if (this.buffer.length === 0) return [];
     const rest = this.buffer;
     this.buffer = "";
-    return [rest];
+    const offset = this.cursorOffset > 0 ? this.cursorOffset : (this.replaceNext ? 1 : 0);
+    return [{ text: rest, offset }];
   }
 }
 
 /** Spawns paru with piped stdio for long-running interactive operations. Never uses "inherit". */
 export function spawnParu(
   args: string[],
-  handlers: { onStdout: (line: string) => void; onStderr: (line: string) => void },
+  handlers: { onStdout: (line: string, replace?: boolean) => void; onStderr: (line: string, replace?: boolean) => void; onBuffer?: (buf: string) => void },
 ): ParuProcessHandle {
-  const proc = Bun.spawn(["paru", "--color=never", ...args], {
+  const paruArgs = ["paru", "--color=never", ...args];
+  const escapedCmd = paruArgs.map((a) => `'${a.replace(/'/g, "'\\''")}'`).join(" ");
+  
+  const proc = Bun.spawn(["script", "-q", "-e", "-c", `stty -opost; ${escapedCmd}`, "/dev/null"], {
     stdin: "pipe",
     stdout: "pipe",
     stderr: "pipe",
     env: PARU_ENV,
   });
 
-  const pump = async (stream: ReadableStream<Uint8Array>, onLine: (line: string) => void) => {
+  const pump = async (stream: ReadableStream<Uint8Array>, onLine: (line: string, offset?: number) => void, onBuffer?: (buf: string) => void) => {
     const splitter = new LineSplitter();
     const decoder = new TextDecoder();
     for await (const chunk of stream) {
-      for (const line of splitter.push(decoder.decode(chunk, { stream: true }))) {
-        onLine(line);
+      for (const lineObj of splitter.push(decoder.decode(chunk, { stream: true }))) {
+        onLine(lineObj.text, lineObj.offset);
+      }
+      if (onBuffer && splitter.getBuffer().length > 0) {
+        onBuffer(splitter.getBuffer());
       }
     }
-    for (const line of splitter.flush()) onLine(line);
+    for (const lineObj of splitter.flush()) onLine(lineObj.text, lineObj.offset);
   };
 
-  void pump(proc.stdout, handlers.onStdout);
-  void pump(proc.stderr, handlers.onStderr);
+  void pump(proc.stdout, handlers.onStdout, handlers.onBuffer);
+  void pump(proc.stderr, handlers.onStderr, handlers.onBuffer);
 
   return {
     proc,
