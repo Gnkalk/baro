@@ -1,7 +1,6 @@
 import type { Package, PackageInfo, UpgradeEntry } from "./types";
 
-const SEARCH_HEADER_RE =
-  /^(\S+)\/(\S+)\s+(\S+)(?:\s+\[[^\]]*\])?(?:\s+\(([^)]+)\))?(?:\s+\[Installed(?::\s*([^\]]+))?\])?/;
+const SEARCH_HEADER_RE = /^(\S+)\/(\S+)\s+(\S+)/;
 
 /** Parses `paru -Ss` output: paired header + indented description lines. */
 export function parseSearchOutput(stdout: string): Package[] {
@@ -10,10 +9,15 @@ export function parseSearchOutput(stdout: string): Package[] {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i] ?? "";
     if (line.length === 0 || /^\s/.test(line)) continue;
+    
     const match = SEARCH_HEADER_RE.exec(line);
     if (!match) continue;
-    const [, repo, name, version, , installedVersion] = match;
-    const installed = /\[Installed/.test(line);
+    const [, repo, name, version] = match;
+    
+    const installedMatch = /\[Installed(?::\s*([^\]]+))?\]/.exec(line);
+    const installed = installedMatch !== null;
+    const installedVersion = installedMatch ? (installedMatch[1] || version) : undefined;
+    
     const descLine = lines[i + 1] ?? "";
     const description = /^\s/.test(descLine) ? descLine.trim() : "";
     packages.push({
@@ -21,7 +25,7 @@ export function parseSearchOutput(stdout: string): Package[] {
       name: name ?? "",
       version: version ?? "",
       installed,
-      installedVersion: installedVersion || (installed ? version : undefined),
+      installedVersion,
       description,
     });
   }
