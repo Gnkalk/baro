@@ -50,7 +50,15 @@ export function useParuOperation(kind: OperationKind, targets: string[]) {
 function applyEvent(event: OperationEvent, setState: Dispatch<SetStateAction<OperationState>>) {
   switch (event.type) {
     case "log":
-      setState((s) => ({ ...s, logs: [...s.logs, event.line] }));
+      setState((s) => {
+        const offset = event.offset || 0;
+        if (offset > 0 && s.logs.length >= offset) {
+          const newLogs = [...s.logs];
+          newLogs[newLogs.length - offset] = event.line;
+          return { ...s, logs: newLogs };
+        }
+        return { ...s, logs: [...s.logs, event.line] };
+      });
       break;
     case "prompt:sudo":
       setState((s) => ({ ...s, pendingPrompt: { type: "sudo" } }));

@@ -21,7 +21,7 @@ export interface UpgradeEntry {
 export type OperationKind = "install" | "remove" | "sysUpgrade" | "cleanCache" | "removeOrphans";
 
 export type OperationEvent =
-  | { type: "log"; line: string }
+  | { type: "log"; line: string; offset?: number }
   | { type: "prompt:sudo" }
   | { type: "prompt:gpg"; key: string }
   | { type: "prompt:provider"; question: string; options: string[] }

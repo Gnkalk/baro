@@ -45,8 +45,8 @@ export function runOperation(
     wake?.();
   };
 
-  const onLine = (line: string) => {
-    push({ type: "log", line });
+  const onLine = (line: string, offset?: number) => {
+    push({ type: "log", line, offset });
     tail = [...tail, line].slice(-PROMPT_TAIL_LINES);
     if (awaitingPrompt) return;
     const match = matchPrompt(tail.join("\n"));
@@ -59,7 +59,19 @@ export function runOperation(
     }
   };
 
-  const handle = spawnParu(buildArgs(kind, targets), { onStdout: onLine, onStderr: onLine });
+  const onBuffer = (buf: string) => {
+    if (awaitingPrompt) return;
+    const match = matchPrompt([...tail, buf].join("\n"));
+    if (match) {
+      awaitingPrompt = true;
+      if (match.type === "sudo") push({ type: "prompt:sudo" });
+      else if (match.type === "gpg") push({ type: "prompt:gpg", key: match.key });
+      else if (match.type === "provider") push({ type: "prompt:provider", question: match.question, options: match.options });
+      else push({ type: "prompt:generic", question: match.question });
+    }
+  };
+
+  const handle = spawnParu(buildArgs(kind, targets), { onStdout: onLine, onStderr: onLine, onBuffer });
 
   handle.exited.then((code) => {
     push({ type: "done", code });
