@@ -48,7 +48,7 @@ export function SearchScreen() {
           placeholder="Type a package name and press Enter..."
           focused={focusTarget === "input"}
           value={query}
-          onInput={setQuery}
+          onInput={setQuery} onSubmit={() => setSubmitted(query)}
         />
       </box>
       <box flexGrow={1} flexDirection="row" marginTop={1}>

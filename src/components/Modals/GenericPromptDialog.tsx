@@ -19,7 +19,13 @@ export function GenericPromptDialog({ question, onAnswer }: { question: string; 
     <box position="absolute" top={0} left={0} right={0} bottom={0} zIndex={50} alignItems="center" justifyContent="center">
       <box borderStyle="double" borderColor={theme.border.accent} title="paru is waiting for input" padding={2} backgroundColor={theme.bg.overlay}>
         <text attributes={TextAttributes.BOLD} fg={theme.text.heading}>{question}</text>
-        <input placeholder="type answer, Enter to submit" focused={true} value={value} onInput={setValue} />
+        <input 
+          placeholder="type answer, Enter to submit" 
+          focused={true} 
+          value={value} 
+          onInput={setValue} 
+          onSubmit={() => onAnswer(value)} 
+        />
       </box>
     </box>
   );
